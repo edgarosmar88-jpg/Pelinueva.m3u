@@ -1207,3 +1207,983 @@ http://200.59.191.177:8000/play/a00k/index.m3u8
 http://200.59.191.177:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="-",tigo sports 2 (TVCABLENET)
 http://200.59.191.177:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-name="1 AXN HD_a0uq" group-title="Cine Premium",1 AXN HD_a0uq
+http://138.59.177.78:9999/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-name="1 CINE CANAL_a07y" group-title="Cine Premium",1 CINE CANAL_a07y
+http://138.59.177.78:9999/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-name="1 CINE LATINO_a07u" group-title="Cine Premium",1 CINE LATINO_a07u
+http://138.59.177.78:9999/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-name="1 CineMax_a07v" group-title="Cine Premium",1 CineMax_a07v
+http://138.59.177.78:9999/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-name="1 Concert Channel_a07q" group-title="Cine Premium",1 Concert Channel_a07q
+http://138.59.177.78:9999/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-name="1 Discovery Home & Health_a151" group-title="Tv Cable",1 Discovery Home & Health_a151
+http://138.59.177.78:9999/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-name="1 Discovery Kids_a07g" group-title="Tv Niños",1 Discovery Kids_a07g
+http://138.59.177.78:9999/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-name="1 Discovery Turbo_a07k" group-title="Tv Cable",1 Discovery Turbo_a07k
+http://138.59.177.78:9999/play/a0km/index.m3u8
+#EXTINF:-1 tvg-name="1 Disney_a07i" group-title="Tv Niños",1 Disney_a07i
+http://138.59.177.78:9999/play/a0kn/index.m3u8
+#EXTINF:-1 tvg-name="1 ESPN 5  HD_a0uh" group-title="Deportes",1 ESPN 5  HD_a0uh
+http://138.59.177.78:9999/play/a0ko/index.m3u8
+#EXTINF:-1 tvg-name="1 ID_a07m" group-title="Tv Cable",1 ID_a07m
+http://138.59.177.78:9999/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-name="1 La voz de Maria_a07n" group-title="Tv Cable",1 La voz de Maria_a07n
+http://138.59.177.78:9999/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-name="1 Multipremier_a07t" group-title="Cine Premium",1 Multipremier_a07t
+http://138.59.177.78:9999/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-name="1 RHEMA TV_a154" group-title="Tv Cable",1 RHEMA TV_a154
+http://138.59.177.78:9999/play/a0ku/index.m3u8
+#EXTINF:-1 tvg-name="1 SPACE HD_a0ur" group-title="Cine Premium",1 SPACE HD_a0ur
+http://138.59.177.78:9999/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-name="1 STAR CHANNEL_a07j" group-title="Cine Premium",1 STAR CHANNEL_a07j
+http://138.59.177.78:9999/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-name="1 Studio Universal_a07w" group-title="Cine Premium",1 Studio Universal_a07w
+http://138.59.177.78:9999/play/a0kx/index.m3u8
+#EXTINF:-1 tvg-name="1 UNE TV HND_a153",1 UNE TV HND_a153
+http://138.59.177.78:9999/play/a0ky/index.m3u8
+#EXTINF:-1 tvg-name="1 Universal_a07r" group-title="Cine Premium",1 Universal_a07r
+http://138.59.177.78:9999/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-name="13-Sinart" group-title="Tv Cable",13-Sinart
+http://138.59.177.78:9999/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-name="2 Atres Series_a013" group-title="Series",2 Atres Series_a013
+http://138.59.177.78:9999/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-name="2 Baby TV_a086" group-title="Tv Niños",2 Baby TV_a086
+http://138.59.177.78:9999/play/a0l1/index.m3u8
+#EXTINF:-1 tvg-name="2 CNN Internacional_a08c" group-title="Tv Cable",2 CNN Internacional_a08c
+http://138.59.177.78:9999/play/a0l3/index.m3u8
+#EXTINF:-1 tvg-name="2 Canal 8 TNH HN_a0r9" group-title="Tv Cable",2 Canal 8 TNH HN_a0r9
+http://138.59.177.78:9999/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-name="2 Discovery Civilization_a088" group-title="Tv Cable",2 Discovery Civilization_a088
+http://138.59.177.78:9999/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-name="2 Discovery Kids HD_a0us" group-title="Tv Niños",2 Discovery Kids HD_a0us
+http://138.59.177.78:9999/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-name="2 Discovery Science_a089" group-title="Tv Cable",2 Discovery Science_a089
+http://138.59.177.78:9999/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-name="2 Golden Premiere 2 HD_a0oc" group-title="Cine Premium",2 Golden Premiere 2 HD_a0oc
+http://138.59.177.78:9999/play/a0l7/index.m3u8
+#EXTINF:-1 tvg-name="2 Golden Premiere HD_a0ob" group-title="Cine Premium",2 Golden Premiere HD_a0ob
+http://138.59.177.78:9999/play/a0l8/index.m3u8
+#EXTINF:-1 tvg-name="2 Hola!TV_a08a" group-title="Tv Cable",2 Hola!TV_a08a
+http://138.59.177.78:9999/play/a0l9/index.m3u8
+#EXTINF:-1 tvg-name="2 Home Garden Latino_a15a" group-title="Tv Cable",2 Home Garden Latino_a15a
+http://138.59.177.78:9999/play/a0la/index.m3u8
+#EXTINF:-1 tvg-name="2 Mas Chic_a087" group-title="Tv Cable",2 Mas Chic_a087
+http://138.59.177.78:9999/play/a0lb/index.m3u8
+#EXTINF:-1 tvg-name="3 A&E_a08m" group-title="Cine Premium",3 A&E_a08m
+http://138.59.177.78:9999/play/a0lc/index.m3u8
+#EXTINF:-1 tvg-name="3 Animal Planet_a08p" group-title="Tv Cable",3 Animal Planet_a08p
+http://138.59.177.78:9999/play/a0ld/index.m3u8
+#EXTINF:-1 tvg-name="3 Azmundo_a08i" group-title="Tv Cable",3 Azmundo_a08i
+http://138.59.177.78:9999/play/a0le/index.m3u8
+#EXTINF:-1 tvg-name="3 CINECANAL HD_a0bw" group-title="Cine Premium",3 CINECANAL HD_a0bw
+http://138.59.177.78:9999/play/a0lf/index.m3u8
+#EXTINF:-1 tvg-name="3 Discovery Channel_a08o" group-title="Tv Cable",3 Discovery Channel_a08o
+http://138.59.177.78:9999/play/a0lg/index.m3u8
+#EXTINF:-1 tvg-name="3 Disney XD (Tooncast)_a08h" group-title="Tv Niños",3 Disney XD (Tooncast)_a08h
+http://138.59.177.78:9999/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-name="3 E!_a08l" group-title="Tv Cable",3 E!_a08l
+http://138.59.177.78:9999/play/a0li/index.m3u8
+#EXTINF:-1 tvg-name="3 ESPN 2._a0u2" group-title="Deportes",3 ESPN 2._a0u2
+http://138.59.177.78:9999/play/a0lk/index.m3u8
+#EXTINF:-1 tvg-name="3 ESPN. 4K_a0u1" group-title="Deportes",3 ESPN. 4K_a0u1
+http://138.59.177.78:9999/play/a0ll/index.m3u8
+#EXTINF:-1 tvg-name="3 ESPN2_a08s" group-title="Deportes",3 ESPN2_a08s
+http://138.59.177.78:9999/play/a0lm/index.m3u8
+#EXTINF:-1 tvg-name="3 ESPN_a08t" group-title="Deportes",3 ESPN_a08t
+http://138.59.177.78:9999/play/a0lj/index.m3u8
+#EXTINF:-1 tvg-name="3 Exa TV_a08u" group-title="Tv Cable",3 Exa TV_a08u
+http://138.59.177.78:9999/play/a0ln/index.m3u8
+#EXTINF:-1 tvg-name="3 History Channel_a08q" group-title="Tv Cable",3 History Channel_a08q
+http://138.59.177.78:9999/play/a0lo/index.m3u8
+#EXTINF:-1 tvg-name="3 SONY CHANEL_a08j" group-title="Cine Premium",3 SONY CHANEL_a08j
+http://138.59.177.78:9999/play/a0lp/index.m3u8
+#EXTINF:-1 tvg-name="3 SONY HD_a0bv" group-title="Cine Premium",3 SONY HD_a0bv
+http://138.59.177.78:9999/play/a0lq/index.m3u8
+#EXTINF:-1 tvg-name="3 STAR CHANNEL HD_a0bt" group-title="Cine Premium",3 STAR CHANNEL HD_a0bt
+http://138.59.177.78:9999/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-name="3 TLC_a08r" group-title="Tv Cable",3 TLC_a08r
+http://138.59.177.78:9999/play/a0ls/index.m3u8
+#EXTINF:-1 tvg-name="3 WARNER HD_a0bu" group-title="Cine Premium",3 WARNER HD_a0bu
+http://138.59.177.78:9999/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-name="3ABN-IXP" group-title="Tv Cable",3ABN-IXP
+http://138.59.177.78:9999/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-name="3ACINE" group-title="Cine Premium",3ACINE
+http://138.59.177.78:9999/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-name="4 ESPN 3_a090" group-title="Deportes",4 ESPN 3_a090
+http://138.59.177.78:9999/play/a0lv/index.m3u8
+#EXTINF:-1 tvg-name="4 ESPN 4._a0u0" group-title="Deportes",4 ESPN 4._a0u0
+http://138.59.177.78:9999/play/a0lw/index.m3u8
+#EXTINF:-1 tvg-name="4 El Gourmet_a0iw" group-title="Tv Cable",4 El Gourmet_a0iw
+http://138.59.177.78:9999/play/a0lu/index.m3u8
+#EXTINF:-1 tvg-name="4 FX_a0iu" group-title="Cine Premium",4 FX_a0iu
+http://138.59.177.78:9999/play/a0lx/index.m3u8
+#EXTINF:-1 tvg-name="4 Golden_a093" group-title="Cine Premium",4 Golden_a093
+http://138.59.177.78:9999/play/a0ly/index.m3u8
+#EXTINF:-1 tvg-name="4 H2_a08y" group-title="Tv Cable",4 H2_a08y
+http://138.59.177.78:9999/play/a0lz/index.m3u8
+#EXTINF:-1 tvg-name="4 HTV_a0j1" group-title="Tv Cable",4 HTV_a0j1
+http://138.59.177.78:9999/play/a0m0/index.m3u8
+#EXTINF:-1 tvg-name="4 RCN Novelas_a0iv" group-title="Novelas",4 RCN Novelas_a0iv
+http://138.59.177.78:9999/play/a0m2/index.m3u8
+#EXTINF:-1 tvg-name="4 Repretel" group-title="Tv Cable",4 Repretel
+http://138.59.177.78:9999/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-name="4 SUYAPA TV_a0uv" group-title="Tv Cable",4 SUYAPA TV_a0uv
+http://138.59.177.78:9999/play/a0m5/index.m3u8
+#EXTINF:-1 tvg-name="4 Sembrador_a098" group-title="Tv Cable",4 Sembrador_a098
+http://138.59.177.78:9999/play/a0m3/index.m3u8
+#EXTINF:-1 tvg-name="4 Sun Channel_a0ix" group-title="Tv Cable",4 Sun Channel_a0ix
+http://138.59.177.78:9999/play/a0m4/index.m3u8
+#EXTINF:-1 tvg-name="4 TCM_a094" group-title="Tv Cable",4 TCM_a094
+http://138.59.177.78:9999/play/a0m6/index.m3u8
+#EXTINF:-1 tvg-name="42 - Extra TV 42" group-title="Tv Cable",42 - Extra TV 42
+http://138.59.177.78:9999/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-name="5 AMC_a09t" group-title="Cine Premium",5 AMC_a09t
+http://138.59.177.78:9999/play/a0m8/index.m3u8
+#EXTINF:-1 tvg-name="5 AXN_a09r" group-title="Cine Premium",5 AXN_a09r
+http://138.59.177.78:9999/play/a0m9/index.m3u8
+#EXTINF:-1 tvg-name="5 Azcorazon_a09j" group-title="Tv Cable",5 Azcorazon_a09j
+http://138.59.177.78:9999/play/a0ma/index.m3u8
+#EXTINF:-1 tvg-name="5 BBC World_a0c4" group-title="Tv Cable",5 BBC World_a0c4
+http://138.59.177.78:9999/play/a0mb/index.m3u8
+#EXTINF:-1 tvg-name="5 Boomerang_a09d" group-title="Tv Niños",5 Boomerang_a09d
+http://138.59.177.78:9999/play/a0mc/index.m3u8
+#EXTINF:-1 tvg-name="5 CNNE_a0c3" group-title="Tv Cable",5 CNNE_a0c3
+http://138.59.177.78:9999/play/a0mf/index.m3u8
+#EXTINF:-1 tvg-name="5 Cartoon Network_a15u" group-title="Tv Niños",5 Cartoon Network_a15u
+http://138.59.177.78:9999/play/a0md/index.m3u8
+#EXTINF:-1 tvg-name="5 Cartoonito_a0c0" group-title="Tv Niños",5 Cartoonito_a0c0
+http://138.59.177.78:9999/play/a0me/index.m3u8
+#EXTINF:-1 tvg-name="5 Disney JR_a09e" group-title="Tv Niños",5 Disney JR_a09e
+http://138.59.177.78:9999/play/a0mg/index.m3u8
+#EXTINF:-1 tvg-name="5 ESPN  4 HD_a0uc" group-title="Deportes",5 ESPN  4 HD_a0uc
+http://138.59.177.78:9999/play/a0mh/index.m3u8
+#EXTINF:-1 tvg-name="5 ESPN 6_a09o" group-title="Deportes",5 ESPN 6_a09o
+http://138.59.177.78:9999/play/a0mi/index.m3u8
+#EXTINF:-1 tvg-name="5 EWTN_a09v" group-title="Tv Cable",5 EWTN_a09v
+http://138.59.177.78:9999/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-name="5 History HD_a0c6" group-title="Tv Cable",5 History HD_a0c6
+http://138.59.177.78:9999/play/a0mk/index.m3u8
+#EXTINF:-1 tvg-name="5 LIFE TIME_a09n" group-title="Tv Cable",5 LIFE TIME_a09n
+http://138.59.177.78:9999/play/a0ml/index.m3u8
+#EXTINF:-1 tvg-name="5 National Geographic_a09m" group-title="Tv Cable",5 National Geographic_a09m
+http://138.59.177.78:9999/play/a0mp/index.m3u8
+#EXTINF:-1 tvg-name="5 RTN Canal 11 - HON_a0rc" group-title="Tv Cable",5 RTN Canal 11 - HON_a0rc
+http://138.59.177.78:9999/play/a0mr/index.m3u8
+#EXTINF:-1 tvg-name="5 RTN HCH- HON_a0rd" group-title="Tv Cable",5 RTN HCH- HON_a0rd
+http://138.59.177.78:9999/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-name="5 SPACE_a09k" group-title="Cine Premium",5 SPACE_a09k
+http://138.59.177.78:9999/play/a0mt/index.m3u8
+#EXTINF:-1 tvg-name="5 STAR LIFE_a09h" group-title="Tv Cable",5 STAR LIFE_a09h
+http://138.59.177.78:9999/play/a0mu/index.m3u8
+#EXTINF:-1 tvg-name="5 TBN Enlace_a0c5" group-title="Tv Cable",5 TBN Enlace_a0c5
+http://138.59.177.78:9999/play/a0mv/index.m3u8
+#EXTINF:-1 tvg-name="5 TNT Novelas_a0re" group-title="Novelas",5 TNT Novelas_a0re
+http://138.59.177.78:9999/play/a0my/index.m3u8
+#EXTINF:-1 tvg-name="5 TNT Series_a09l" group-title="Series",5 TNT Series_a09l
+http://138.59.177.78:9999/play/a0mz/index.m3u8
+#EXTINF:-1 tvg-name="5 TNT_a09s" group-title="Cine Premium",5 TNT_a09s
+http://138.59.177.78:9999/play/a0mx/index.m3u8
+#EXTINF:-1 tvg-name="5 Telemundo_a09i",5 Telemundo_a09i
+http://138.59.177.78:9999/play/a0mw/index.m3u8
+#EXTINF:-1 tvg-name="5 Tru TV_a0c1" group-title="Tv Cable",5 Tru TV_a0c1
+http://138.59.177.78:9999/play/a0n0/index.m3u8
+#EXTINF:-1 tvg-name="6 Discovery Channel HD_a0a4" group-title="Tv Cable",6 Discovery Channel HD_a0a4
+http://138.59.177.78:9999/play/a0n1/index.m3u8
+#EXTINF:-1 tvg-name="6 Discovery ID HD_a0a9" group-title="Tv Cable",6 Discovery ID HD_a0a9
+http://138.59.177.78:9999/play/a0n2/index.m3u8
+#EXTINF:-1 tvg-name="6 Discovery World HD_a0a6" group-title="Tv Cable",6 Discovery World HD_a0a6
+http://138.59.177.78:9999/play/a0n3/index.m3u8
+#EXTINF:-1 tvg-name="6 ESPN 2 HD 4k_a0ue" group-title="Deportes",6 ESPN 2 HD 4k_a0ue
+http://138.59.177.78:9999/play/a0n4/index.m3u8
+#EXTINF:-1 tvg-name="6 ESPN 3  4k_a09x" group-title="Deportes",6 ESPN 3  4k_a09x
+http://138.59.177.78:9999/play/a0n5/index.m3u8
+#EXTINF:-1 tvg-name="6 ESPN 6  4k_a0a0" group-title="Deportes",6 ESPN 6  4k_a0a0
+http://138.59.177.78:9999/play/a0n6/index.m3u8
+#EXTINF:-1 tvg-name="6 ESPN HD 4k_a0ud" group-title="Deportes",6 ESPN HD 4k_a0ud
+http://138.59.177.78:9999/play/a0n7/index.m3u8
+#EXTINF:-1 tvg-name="6 Nat Geo HD_a0a1" group-title="Tv Cable",6 Nat Geo HD_a0a1
+http://138.59.177.78:9999/play/a0n8/index.m3u8
+#EXTINF:-1 tvg-name="6 Pasiones HD_a0a7" group-title="Novelas",6 Pasiones HD_a0a7
+http://138.59.177.78:9999/play/a0na/index.m3u8
+#EXTINF:-1 tvg-name="6 STAR COMEDY HD_a0aa" group-title="Cine Premium",6 STAR COMEDY HD_a0aa
+http://138.59.177.78:9999/play/a0nb/index.m3u8
+#EXTINF:-1 tvg-name="6 TNT Series HD_a0a3" group-title="Series",6 TNT Series HD_a0a3
+http://138.59.177.78:9999/play/a0nc/index.m3u8
+#EXTINF:-1 tvg-name="6 UNIVERSAL CINEMA HD_a0c9" group-title="Cine Premium",6 UNIVERSAL CINEMA HD_a0c9
+http://138.59.177.78:9999/play/a0nd/index.m3u8
+#EXTINF:-1 tvg-name="6 Univision HD_a0o9" group-title="Tv Cable",6 Univision HD_a0o9
+http://138.59.177.78:9999/play/a0ne/index.m3u8
+#EXTINF:-1 tvg-name="7 DISCOVERY THEATHER HD_a0ad" group-title="Tv Cable",7 DISCOVERY THEATHER HD_a0ad
+http://138.59.177.78:9999/play/a0ng/index.m3u8
+#EXTINF:-1 tvg-name="7 HOLA! TV HD_a0cc" group-title="Tv Cable",7 HOLA! TV HD_a0cc
+http://138.59.177.78:9999/play/a0nh/index.m3u8
+#EXTINF:-1 tvg-name="7 Home & Health HD_a0ae" group-title="Tv Cable",7 Home & Health HD_a0ae
+http://138.59.177.78:9999/play/a0ni/index.m3u8
+#EXTINF:-1 tvg-name="7 TNT HD_a0ac" group-title="Cine Premium",7 TNT HD_a0ac
+http://138.59.177.78:9999/play/a0nn/index.m3u8
+#EXTINF:-1 tvg-name="7 Tigo Sports HD_a0ca" group-title="Deportes",7 Tigo Sports HD_a0ca
+http://138.59.177.78:9999/play/a0nm/index.m3u8
+#EXTINF:-1 tvg-name="7 UNIVERSAL COMEDY HD_a0ci" group-title="Cine Premium",7 UNIVERSAL COMEDY HD_a0ci
+http://138.59.177.78:9999/play/a0no/index.m3u8
+#EXTINF:-1 tvg-name="7 UNIVERSAL CRIME HD_a0ch" group-title="Cine Premium",7 UNIVERSAL CRIME HD_a0ch
+http://138.59.177.78:9999/play/a0np/index.m3u8
+#EXTINF:-1 tvg-name="7 UNIVERSAL PREMIERE HD_a15m" group-title="Cine Premium",7 UNIVERSAL PREMIERE HD_a15m
+http://138.59.177.78:9999/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-name="7 UNIVERSAL PREMIERE O HD_a0cf" group-title="Cine Premium",7 UNIVERSAL PREMIERE O HD_a0cf
+http://138.59.177.78:9999/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-name="7 UNIVERSAL REALITY HD_a0cg" group-title="Novelas",7 UNIVERSAL REALITY HD_a0cg
+http://138.59.177.78:9999/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-name="8 A&E HD_a0aj" group-title="Cine Premium",8 A&E HD_a0aj
+http://138.59.177.78:9999/play/a0nt/index.m3u8
+#EXTINF:-1 tvg-name="8 AMC HD_a0cm" group-title="Cine Premium",8 AMC HD_a0cm
+http://138.59.177.78:9999/play/a0nu/index.m3u8
+#EXTINF:-1 tvg-name="8 AZ click HD_a0cr" group-title="Tv Cable",8 AZ click HD_a0cr
+http://138.59.177.78:9999/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-name="8 Animal Planet HD_a0ah" group-title="Tv Cable",8 Animal Planet HD_a0ah
+http://138.59.177.78:9999/play/a0nv/index.m3u8
+#EXTINF:-1 tvg-name="8 DHE HD_a0cq" group-title="Tv Cable",8 DHE HD_a0cq
+http://138.59.177.78:9999/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-name="8 E! Entertairment HD_a0ai" group-title="Tv Cable",8 E! Entertairment HD_a0ai
+http://138.59.177.78:9999/play/a0ny/index.m3u8
+#EXTINF:-1 tvg-name="8 Europa HD_a0co" group-title="Tv Cable",8 Europa HD_a0co
+http://138.59.177.78:9999/play/a0nz/index.m3u8
+#EXTINF:-1 tvg-name="8 FX HD_a0cn" group-title="Cine Premium",8 FX HD_a0cn
+http://138.59.177.78:9999/play/a0o1/index.m3u8
+#EXTINF:-1 tvg-name="8 Film & arts HD_a0cl" group-title="Tv Cable",8 Film & arts HD_a0cl
+http://138.59.177.78:9999/play/a0o0/index.m3u8
+#EXTINF:-1 tvg-name="8 Golf Channel HD_a0ct" group-title="Tv Cable",8 Golf Channel HD_a0ct
+http://138.59.177.78:9999/play/a0o2/index.m3u8
+#EXTINF:-1 tvg-name="8 Sony Movies HD_a0cp" group-title="Cine Premium",8 Sony Movies HD_a0cp
+http://138.59.177.78:9999/play/a0o3/index.m3u8
+#EXTINF:-1 tvg-name="8 Star TVE HD_a0cs" group-title="Tv Cable",8 Star TVE HD_a0cs
+http://138.59.177.78:9999/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-name="8 Telemundo HD_a0ak" group-title="Novelas",8 Telemundo HD_a0ak
+http://138.59.177.78:9999/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-name="A&E" group-title="Cine Premium",A&E
+http://138.59.177.78:9999/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-name="A&E HD EZ-TRA" group-title="Tv Cable",A&E HD EZ-TRA
+http://138.59.177.78:9999/play/a0k4/index.m3u8
+#EXTINF:-1 tvg-name="A&E-IXP" group-title="Tv Cable",A&E-IXP
+http://138.59.177.78:9999/play/a08h/index.m3u8
+#EXTINF:-1 tvg-name="ABC" group-title="Tv Cable",ABC
+http://138.59.177.78:9999/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-name="ABC EZ-TRA" group-title="Tv Cable",ABC EZ-TRA
+http://138.59.177.78:9999/play/a0ka/index.m3u8
+#EXTINF:-1 tvg-name="ADULT SWIN-IXP" group-title="Tv Cable",ADULT SWIN-IXP
+http://138.59.177.78:9999/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="AGROTENDENCIAS" group-title="Tv Cable",AGROTENDENCIAS
+http://138.59.177.78:9999/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-name="AMC EZ-TRA" group-title="Tv Cable",AMC EZ-TRA
+http://138.59.177.78:9999/play/a0k0/index.m3u8
+#EXTINF:-1 tvg-name="AMC-IXP" group-title="Tv Cable",AMC-IXP
+http://138.59.177.78:9999/play/a08o/index.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET-IXP" group-title="Tv Cable",ANIMAL PLANET-IXP
+http://138.59.177.78:9999/play/a09c/index.m3u8
+#EXTINF:-1 tvg-name="ANTENA 3" group-title="Tv Cable",ANTENA 3
+http://138.59.177.78:9999/play/a08q/index.m3u8
+#EXTINF:-1 tvg-name="ASNET EZ-TRA" group-title="Tv Cable",ASNET EZ-TRA
+http://138.59.177.78:9999/play/a0jz/index.m3u8
+#EXTINF:-1 tvg-name="ASNET-IXP" group-title="Tv Cable",ASNET-IXP
+http://138.59.177.78:9999/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-name="AXN EZ-TRA" group-title="Tv Cable",AXN EZ-TRA
+http://138.59.177.78:9999/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-name="AXN-IXP" group-title="Tv Cable",AXN-IXP
+http://138.59.177.78:9999/play/a085/index.m3u8
+#EXTINF:-1 tvg-name="AZ CLIC EZ-TRA" group-title="Tv Cable",AZ CLIC EZ-TRA
+http://138.59.177.78:9999/play/a0jy/index.m3u8
+#EXTINF:-1 tvg-name="AZ CLIC-IXP" group-title="Tv Cable",AZ CLIC-IXP
+http://138.59.177.78:9999/play/a09d/index.m3u8
+#EXTINF:-1 tvg-name="AZ MUNDO-IXP" group-title="Tv Cable",AZ MUNDO-IXP
+http://138.59.177.78:9999/play/a09h/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA 7 EZ-TRA" group-title="Tv Cable",AZTECA 7 EZ-TRA
+http://138.59.177.78:9999/play/a0jx/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA 7-IXP" group-title="Tv Cable",AZTECA 7-IXP
+http://138.59.177.78:9999/play/a09s/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA GUATEMALA-IXP" group-title="Tv Cable",AZTECA GUATEMALA-IXP
+http://138.59.177.78:9999/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA HONDURAS EZ-TRA" group-title="Tv Cable",AZTECA HONDURAS EZ-TRA
+http://138.59.177.78:9999/play/a0hv/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA HONDURAS-IXP" group-title="Tv Cable",AZTECA HONDURAS-IXP
+http://138.59.177.78:9999/play/a04i/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA UNO EZ-TRA" group-title="Tv Cable",AZTECA UNO EZ-TRA
+http://138.59.177.78:9999/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA UNO-IXP" group-title="Tv Cable",AZTECA UNO-IXP
+http://138.59.177.78:9999/play/a04q/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Tv Cable",Animal Planet
+http://138.59.177.78:9999/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-name="Atres Series" group-title="Series",Atres Series
+http://138.59.177.78:9999/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-name="BABY TV-IXP" group-title="Tv Niños",BABY TV-IXP
+http://138.59.177.78:9999/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name="BANDA MAX EZ-TRA" group-title="Tv Cable",BANDA MAX EZ-TRA
+http://138.59.177.78:9999/play/a0hd/index.m3u8
+#EXTINF:-1 tvg-name="BANDA MAX-IXP" group-title="Tv Cable",BANDA MAX-IXP
+http://138.59.177.78:9999/play/a090/index.m3u8
+#EXTINF:-1 tvg-name="BITME EZ-TRA" group-title="Tv Cable",BITME EZ-TRA
+http://138.59.177.78:9999/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-name="BITME-IXP" group-title="Tv Cable",BITME-IXP
+http://138.59.177.78:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="BLOONBERG" group-title="Tv Cable",BLOONBERG
+http://138.59.177.78:9999/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-name="BLOONBERG EZ-TRA" group-title="Tv Cable",BLOONBERG EZ-TRA
+http://138.59.177.78:9999/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-name="BUNDESLIGA EZ-TRA" group-title="Tv Cable",BUNDESLIGA EZ-TRA
+http://138.59.177.78:9999/play/a0hc/index.m3u8
+#EXTINF:-1 tvg-name="BUNDESLIGA-IXP" group-title="Tv Cable",BUNDESLIGA-IXP
+http://138.59.177.78:9999/play/a08i/index.m3u8
+#EXTINF:-1 tvg-name="Baby First" group-title="Tv Niños",Baby First
+http://138.59.177.78:9999/play/a0d9/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 10 HD" group-title="Tv Cable",CANAL 10 HD
+http://138.59.177.78:9999/play/a022/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 10 HD EZ-TRA" group-title="Tv Cable",CANAL 10 HD EZ-TRA
+http://138.59.177.78:9999/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 5 MX" group-title="Tv Cable",CANAL 5 MX
+http://138.59.177.78:9999/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 5 MX EZ-TRA" group-title="Tv Cable",CANAL 5 MX EZ-TRA
+http://138.59.177.78:9999/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 5-IXP" group-title="Tv Cable",CANAL 5-IXP
+http://138.59.177.78:9999/play/a00d/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 6 EZ-TRA" group-title="Tv Cable",CANAL 6 EZ-TRA
+http://138.59.177.78:9999/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 6-IXP" group-title="Tv Cable",CANAL 6-IXP
+http://138.59.177.78:9999/play/a00f/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 7 CR-IXP" group-title="Tv Cable",CANAL 7 CR-IXP
+http://138.59.177.78:9999/play/a09e/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 7 GUA" group-title="Tv Cable",CANAL 7 GUA
+http://138.59.177.78:9999/play/a0gs/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 7 GUA EZ-TRA" group-title="Tv Cable",CANAL 7 GUA EZ-TRA
+http://138.59.177.78:9999/play/a0js/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 8-IXP" group-title="Tv Cable",CANAL 8-IXP
+http://138.59.177.78:9999/play/a00g/index.m3u8
+#EXTINF:-1 tvg-name="CANAL ANTIGUA" group-title="Tv Cable",CANAL ANTIGUA
+http://138.59.177.78:9999/play/a0gu/index.m3u8
+#EXTINF:-1 tvg-name="CANAL DE LAS ESTRELLAS EZ-TRA" group-title="Novelas",CANAL DE LAS ESTRELLAS EZ-TRA
+http://138.59.177.78:9999/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-name="CANAL DE LAS ESTRELLAS-IXP" group-title="Novelas",CANAL DE LAS ESTRELLAS-IXP
+http://138.59.177.78:9999/play/a03r/index.m3u8
+#EXTINF:-1 tvg-name="CANAL TEN EZ-TRA" group-title="Tv Cable",CANAL TEN EZ-TRA
+http://138.59.177.78:9999/play/a0jq/index.m3u8
+#EXTINF:-1 tvg-name="CANAL TEN-IXP" group-title="Tv Cable",CANAL TEN-IXP
+http://138.59.177.78:9999/play/a00h/index.m3u8
+#EXTINF:-1 tvg-name="CANAL VTV EZ-TRA" group-title="Tv Cable",CANAL VTV EZ-TRA
+http://138.59.177.78:9999/play/a0jp/index.m3u8
+#EXTINF:-1 tvg-name="CANAL VTV-IXP" group-title="Tv Cable",CANAL VTV-IXP
+http://138.59.177.78:9999/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name="CARACOL EZ-TRA" group-title="Tv Cable",CARACOL EZ-TRA
+http://138.59.177.78:9999/play/a0i1/index.m3u8
+#EXTINF:-1 tvg-name="CARACOL-IXP" group-title="Tv Cable",CARACOL-IXP
+http://138.59.177.78:9999/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK-IXP" group-title="Tv Niños",CARTOON NETWORK-IXP
+http://138.59.177.78:9999/play/a00i/index.m3u8
+#EXTINF:-1 tvg-name="CARTOONITO-IXP" group-title="Tv Niños",CARTOONITO-IXP
+http://138.59.177.78:9999/play/a00j/index.m3u8
+#EXTINF:-1 tvg-name="CCITV" group-title="Tv Cable",CCITV
+http://138.59.177.78:9999/play/a0g7/index.m3u8
+#EXTINF:-1 tvg-name="CCITV EZ-TRA" group-title="Tv Cable",CCITV EZ-TRA
+http://138.59.177.78:9999/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-name="CHOLUSAT SUR" group-title="Tv Cable",CHOLUSAT SUR
+http://138.59.177.78:9999/play/a0gc/index.m3u8
+#EXTINF:-1 tvg-name="CHOLUSAT SUR EZ-TRA" group-title="Tv Cable",CHOLUSAT SUR EZ-TRA
+http://138.59.177.78:9999/play/a0jn/index.m3u8
+#EXTINF:-1 tvg-name="CHTV" group-title="Tv Cable",CHTV
+http://138.59.177.78:9999/play/a0go/index.m3u8
+#EXTINF:-1 tvg-name="CHTV EZ-TRA" group-title="Tv Cable",CHTV EZ-TRA
+http://138.59.177.78:9999/play/a0jo/index.m3u8
+#EXTINF:-1 tvg-name="CINE LATINO-IXP" group-title="Cine Premium",CINE LATINO-IXP
+http://138.59.177.78:9999/play/a07m/index.m3u8
+#EXTINF:-1 tvg-name="CINE MEXICANO EZ-TRA" group-title="Tv Cable",CINE MEXICANO EZ-TRA
+http://138.59.177.78:9999/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-name="CINE MEXICANO-IXP" group-title="Tv Cable",CINE MEXICANO-IXP
+http://138.59.177.78:9999/play/a07j/index.m3u8
+#EXTINF:-1 tvg-name="CINE PLATINO EZ-TRA" group-title="Cine Premium",CINE PLATINO EZ-TRA
+http://138.59.177.78:9999/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-name="CINE PLATINO-IXP" group-title="Cine Premium",CINE PLATINO-IXP
+http://138.59.177.78:9999/play/a07l/index.m3u8
+#EXTINF:-1 tvg-name="CINECANAL-IXP" group-title="Cine Premium",CINECANAL-IXP
+http://138.59.177.78:9999/play/a06y/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX EZ-TRA" group-title="Cine Premium",CINEMAX EZ-TRA
+http://138.59.177.78:9999/play/a0jl/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX-IXP" group-title="Tv Cable",CINEMAX-IXP
+http://138.59.177.78:9999/play/a08p/index.m3u8
+#EXTINF:-1 tvg-name="CITY TV" group-title="Tv Cable",CITY TV
+http://138.59.177.78:9999/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-name="CITY TV EZ-TRA" group-title="Tv Cable",CITY TV EZ-TRA
+http://138.59.177.78:9999/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-name="CLAN" group-title="Tv Cable",CLAN
+http://138.59.177.78:9999/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-name="CLARO SPORT2-IXP" group-title="Deportes",CLARO SPORT2-IXP
+http://138.59.177.78:9999/play/a09t/index.m3u8
+#EXTINF:-1 tvg-name="CNBC" group-title="Tv Cable",CNBC
+http://138.59.177.78:9999/play/a0f4/index.m3u8
+#EXTINF:-1 tvg-name="CNN-IXP" group-title="Tv Cable",CNN-IXP
+http://138.59.177.78:9999/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-name="COMEDY CENTRAL-IXP" group-title="Tv Cable",COMEDY CENTRAL-IXP
+http://138.59.177.78:9999/play/a08x/index.m3u8
+#EXTINF:-1 tvg-name="CONCERT CHANNEL EZ-TRA" group-title="Tv Cable",CONCERT CHANNEL EZ-TRA
+http://138.59.177.78:9999/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-name="CONCERT CHANNEL-IXP" group-title="Tv Cable",CONCERT CHANNEL-IXP
+http://138.59.177.78:9999/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-name="CONGRESO HN-IXP" group-title="Tv Cable",CONGRESO HN-IXP
+http://138.59.177.78:9999/play/a09v/index.m3u8
+#EXTINF:-1 tvg-name="Canal  21 - ESA" group-title="Tv Cable",Canal  21 - ESA
+http://138.59.177.78:9999/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-name="Canal 10 - ESA" group-title="Tv Cable",Canal 10 - ESA
+http://138.59.177.78:9999/play/a0az/index.m3u8
+#EXTINF:-1 tvg-name="Canal 10 HD" group-title="Tv Cable",Canal 10 HD
+http://138.59.177.78:9999/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-name="Canal 10 HD - ESA" group-title="Tv Cable",Canal 10 HD - ESA
+http://138.59.177.78:9999/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-name="Canal 11 - HON" group-title="Tv Cable",Canal 11 - HON
+http://138.59.177.78:9999/play/a01v/index.m3u8
+#EXTINF:-1 tvg-name="Canal 2 - ESA" group-title="Tv Cable",Canal 2 - ESA
+http://138.59.177.78:9999/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-name="Canal 2 - NIC" group-title="Tv Cable",Canal 2 - NIC
+http://138.59.177.78:9999/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-name="Canal 3 - GUA" group-title="Tv Cable",Canal 3 - GUA
+http://138.59.177.78:9999/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-name="Canal 3 Telesistemas HND" group-title="Tv Cable",Canal 3 Telesistemas HND
+http://138.59.177.78:9999/play/a0er/index.m3u8
+#EXTINF:-1 tvg-name="Canal 4 - ESA" group-title="Tv Cable",Canal 4 - ESA
+http://138.59.177.78:9999/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-name="Canal 4 - NIC" group-title="Tv Cable",Canal 4 - NIC
+http://138.59.177.78:9999/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-name="Canal 4 HD ESA" group-title="Tv Cable",Canal 4 HD ESA
+http://138.59.177.78:9999/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 El Lider" group-title="Tv Cable",Canal 5 El Lider
+http://138.59.177.78:9999/play/a0b7/index.m3u8
+#EXTINF:-1 tvg-name="Canal 7 - GUA" group-title="Tv Cable",Canal 7 - GUA
+http://138.59.177.78:9999/play/a0do/index.m3u8
+#EXTINF:-1 tvg-name="Canal 7 HD CR EZ-TRA" group-title="Tv Cable",Canal 7 HD CR EZ-TRA
+http://138.59.177.78:9999/play/a0jr/index.m3u8
+#EXTINF:-1 tvg-name="Canal 7 HD CR_a152" group-title="Tv Cable",Canal 7 HD CR_a152
+http://138.59.177.78:9999/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-name="Canal Antigua - GUA" group-title="Tv Cable",Canal Antigua - GUA
+http://138.59.177.78:9999/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-name="Canal Claro" group-title="Tv Cable",Canal Claro
+http://138.59.177.78:9999/play/a0ce/index.m3u8
+#EXTINF:-1 tvg-name="Canal Claro HD" group-title="Tv Cable",Canal Claro HD
+http://138.59.177.78:9999/play/a0bm/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Tv Niños",Cartoon Network
+http://138.59.177.78:9999/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-name="CineCanal" group-title="Cine Premium",CineCanal
+http://138.59.177.78:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="CineMax" group-title="Cine Premium",CineMax
+http://138.59.177.78:9999/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-name="Claro Cinema" group-title="Tv Cable",Claro Cinema
+http://138.59.177.78:9999/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-name="Claro Sports 1 HD" group-title="Deportes",Claro Sports 1 HD
+http://138.59.177.78:9999/play/a0bk/index.m3u8
+#EXTINF:-1 tvg-name="Claro Sports 1 SD" group-title="Deportes",Claro Sports 1 SD
+http://138.59.177.78:9999/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-name="Color Vision 9 - RD" group-title="Tv Cable",Color Vision 9 - RD
+http://138.59.177.78:9999/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-name="D PELICULAS EZ-TRA" group-title="Cine Premium",D PELICULAS EZ-TRA
+http://138.59.177.78:9999/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-name="D PELICULAS-IXP" group-title="Cine Premium",D PELICULAS-IXP
+http://138.59.177.78:9999/play/a072/index.m3u8
+#EXTINF:-1 tvg-name="DEPORTES TVC EZ-TRA" group-title="Deportes",DEPORTES TVC EZ-TRA
+http://138.59.177.78:9999/play/a0he/index.m3u8
+#EXTINF:-1 tvg-name="DEPORTES TVC IX" group-title="Deportes",DEPORTES TVC IX
+http://138.59.177.78:9999/play/a002/index.m3u8
+#EXTINF:-1 tvg-name="DHE EZ-TRA" group-title="Tv Cable",DHE EZ-TRA
+http://138.59.177.78:9999/play/a0kb/index.m3u8
+#EXTINF:-1 tvg-name="DHE-IXP" group-title="Tv Cable",DHE-IXP
+http://138.59.177.78:9999/play/a08j/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY  SCIENCE" group-title="Tv Cable",DISCOVERY  SCIENCE
+http://138.59.177.78:9999/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY  SCIENCE  EZ-TRA" group-title="Tv Cable",DISCOVERY  SCIENCE  EZ-TRA
+http://138.59.177.78:9999/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL-IXP" group-title="Tv Cable",DISCOVERY CHANNEL-IXP
+http://138.59.177.78:9999/play/a09p/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY KIDS-IXP" group-title="Tv Niños",DISCOVERY KIDS-IXP
+http://138.59.177.78:9999/play/a093/index.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY WORLD-IXP" group-title="Tv Cable",DISCOVERY WORLD-IXP
+http://138.59.177.78:9999/play/a09q/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR EZ-TRA" group-title="Tv Niños",DISNEY JR EZ-TRA
+http://138.59.177.78:9999/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR-IXP" group-title="Tv Niños",DISNEY JR-IXP
+http://138.59.177.78:9999/play/a00o/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY-IXP" group-title="Tv Niños",DISNEY-IXP
+http://138.59.177.78:9999/play/a00n/index.m3u8
+#EXTINF:-1 tvg-name="DISTRITO COMEDIA" group-title="Tv Cable",DISTRITO COMEDIA
+http://138.59.177.78:9999/play/a005/index.m3u8
+#EXTINF:-1 tvg-name="DISTRITO COMEDIA EZ-TRA" group-title="Tv Cable",DISTRITO COMEDIA EZ-TRA
+http://138.59.177.78:9999/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-name="DREAMS WORKS EZ-TRA" group-title="Tv Cable",DREAMS WORKS EZ-TRA
+http://138.59.177.78:9999/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-name="DREAMS WORKS-IXP" group-title="Tv Cable",DREAMS WORKS-IXP
+http://138.59.177.78:9999/play/a00m/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Tv Cable",Discovery Channel
+http://138.59.177.78:9999/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids" group-title="Tv Niños",Discovery Kids
+http://138.59.177.78:9999/play/a0et/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" group-title="Tv Cable",Discovery Science
+http://138.59.177.78:9999/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr" group-title="Tv Niños",Disney Jr
+http://138.59.177.78:9999/play/a026/index.m3u8
+#EXTINF:-1 tvg-name="E! EZ-TRA" group-title="Tv Cable",E! EZ-TRA
+http://138.59.177.78:9999/play/a0je/index.m3u8
+#EXTINF:-1 tvg-name="E!-IXP" group-title="Tv Cable",E!-IXP
+http://138.59.177.78:9999/play/a088/index.m3u8
+#EXTINF:-1 tvg-name="EJTV" group-title="Tv Cable",EJTV
+http://138.59.177.78:9999/play/a0gp/index.m3u8
+#EXTINF:-1 tvg-name="EJTV EZ-TRA" group-title="Tv Cable",EJTV EZ-TRA
+http://138.59.177.78:9999/play/a0jd/index.m3u8
+#EXTINF:-1 tvg-name="ENLACE EZ-TRA" group-title="Tv Cable",ENLACE EZ-TRA
+http://138.59.177.78:9999/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-name="ENLACE-IXP" group-title="Tv Cable",ENLACE-IXP
+http://138.59.177.78:9999/play/a0aa/index.m3u8
+#EXTINF:-1 tvg-name="ESPN  4 HD" group-title="Deportes",ESPN  4 HD
+http://138.59.177.78:9999/play/a0cv/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 1 EZ-TRA" group-title="Deportes",ESPN 1 EZ-TRA
+http://138.59.177.78:9999/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 1 IXP" group-title="Deportes",ESPN 1 IXP
+http://138.59.177.78:9999/play/a003/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD
+http://138.59.177.78:9999/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 IXP" group-title="Deportes",ESPN 2 IXP
+http://138.59.177.78:9999/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+http://138.59.177.78:9999/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3-IXP" group-title="Deportes",ESPN 3-IXP
+http://138.59.177.78:9999/play/a07v/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4-IXP" group-title="Deportes",ESPN 4-IXP
+http://138.59.177.78:9999/play/a07w/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 5" group-title="Deportes",ESPN 5
+http://138.59.177.78:9999/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 5-IXP" group-title="Deportes",ESPN 5-IXP
+http://138.59.177.78:9999/play/a07x/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 6" group-title="Deportes",ESPN 6
+http://138.59.177.78:9999/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 6-IXP" group-title="Deportes",ESPN 6-IXP
+http://138.59.177.78:9999/play/a07y/index.m3u8
+#EXTINF:-1 tvg-name="ESPN HD" group-title="Deportes",ESPN HD
+http://138.59.177.78:9999/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-name="EUROPA" group-title="Tv Cable",EUROPA
+http://138.59.177.78:9999/play/a08t/index.m3u8
+#EXTINF:-1 tvg-name="Europa HD EZ-TRA" group-title="Tv Cable",Europa HD EZ-TRA
+http://138.59.177.78:9999/play/a0k1/index.m3u8
+#EXTINF:-1 tvg-name="FILM & ART-IXP" group-title="Tv Cable",FILM & ART-IXP
+http://138.59.177.78:9999/play/a08y/index.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="Tv Cable",FOOD NETWORK
+http://138.59.177.78:9999/play/a091/index.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK EZ-TRA" group-title="Tv Cable",FOOD NETWORK EZ-TRA
+http://138.59.177.78:9999/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-name="FOX NEWS" group-title="Tv Cable",FOX NEWS
+http://138.59.177.78:9999/play/a0fx/index.m3u8
+#EXTINF:-1 tvg-name="FOX NEWS EZ-TRA" group-title="Tv Cable",FOX NEWS EZ-TRA
+http://138.59.177.78:9999/play/a0ja/index.m3u8
+#EXTINF:-1 tvg-name="FOX SPORT" group-title="Deportes",FOX SPORT
+http://138.59.177.78:9999/play/a080/index.m3u8
+#EXTINF:-1 tvg-name="FOX SPORT 2 EZ-TRA" group-title="Deportes",FOX SPORT 2 EZ-TRA
+http://138.59.177.78:9999/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-name="FOX SPORT 2-IXP" group-title="Deportes",FOX SPORT 2-IXP
+http://138.59.177.78:9999/play/a081/index.m3u8
+#EXTINF:-1 tvg-name="FOX SPORT 3-IXP" group-title="Deportes",FOX SPORT 3-IXP
+http://138.59.177.78:9999/play/a082/index.m3u8
+#EXTINF:-1 tvg-name="FRANCE 24 EZ-TRA" group-title="Tv Cable",FRANCE 24 EZ-TRA
+http://138.59.177.78:9999/play/a0j8/index.m3u8
+#EXTINF:-1 tvg-name="FRANCE 24-IXP" group-title="Tv Cable",FRANCE 24-IXP
+http://138.59.177.78:9999/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-name="FUTV CR EZ-TRA" group-title="Tv Cable",FUTV CR EZ-TRA
+http://138.59.177.78:9999/play/a0j7/index.m3u8
+#EXTINF:-1 tvg-name="FUTV CR-IXP" group-title="Tv Cable",FUTV CR-IXP
+http://138.59.177.78:9999/play/a09r/index.m3u8
+#EXTINF:-1 tvg-name="FX" group-title="Cine Premium",FX
+http://138.59.177.78:9999/play/a0da/index.m3u8
+#EXTINF:-1 tvg-name="FX HD EZ-TRA" group-title="Tv Cable",FX HD EZ-TRA
+http://138.59.177.78:9999/play/a0k6/index.m3u8
+#EXTINF:-1 tvg-name="FX-IXP" group-title="Tv Cable",FX-IXP
+http://138.59.177.78:9999/play/a08k/index.m3u8
+#EXTINF:-1 tvg-name="Film & arts HD  EZ-TRA" group-title="Tv Cable",Film & arts HD  EZ-TRA
+http://138.59.177.78:9999/play/a0k5/index.m3u8
+#EXTINF:-1 tvg-name="GO TV" group-title="Tv Cable",GO TV
+http://138.59.177.78:9999/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-name="GO TV EZ-TRA" group-title="Tv Cable",GO TV EZ-TRA
+http://138.59.177.78:9999/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-name="GOLDEN EDGE EZ-TRA" group-title="Cine Premium",GOLDEN EDGE EZ-TRA
+http://138.59.177.78:9999/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-name="GOLDEN EDGE-IXP" group-title="Cine Premium",GOLDEN EDGE-IXP
+http://138.59.177.78:9999/play/a07p/index.m3u8
+#EXTINF:-1 tvg-name="GOLDEN PREMIER 2-IXP" group-title="Cine Premium",GOLDEN PREMIER 2-IXP
+http://138.59.177.78:9999/play/a094/index.m3u8
+#EXTINF:-1 tvg-name="GOLDEN PREMIER-IXP" group-title="Cine Premium",GOLDEN PREMIER-IXP
+http://138.59.177.78:9999/play/a095/index.m3u8
+#EXTINF:-1 tvg-name="GOLDEN-IXP" group-title="Cine Premium",GOLDEN-IXP
+http://138.59.177.78:9999/play/a07u/index.m3u8
+#EXTINF:-1 tvg-name="GOURMET EZ-TRA" group-title="Tv Cable",GOURMET EZ-TRA
+http://138.59.177.78:9999/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-name="GOURMET-IXP" group-title="Tv Cable",GOURMET-IXP
+http://138.59.177.78:9999/play/a08u/index.m3u8
+#EXTINF:-1 tvg-name="GUATEVISION EZ-TRA" group-title="Tv Cable",GUATEVISION EZ-TRA
+http://138.59.177.78:9999/play/a0hm/index.m3u8
+#EXTINF:-1 tvg-name="GUATEVISION-IXP" group-title="Tv Cable",GUATEVISION-IXP
+http://138.59.177.78:9999/play/a08w/index.m3u8
+#EXTINF:-1 tvg-name="Golf Channel" group-title="Tv Cable",Golf Channel
+http://138.59.177.78:9999/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-name="Golf Channel HD EZ-TRA" group-title="Tv Cable",Golf Channel HD EZ-TRA
+http://138.59.177.78:9999/play/a0k7/index.m3u8
+#EXTINF:-1 tvg-name="H&H-IXP" group-title="Tv Cable",H&H-IXP
+http://138.59.177.78:9999/play/a09j/index.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME EZ-TRA" group-title="Cine Premium",HBO EXTREME EZ-TRA
+http://138.59.177.78:9999/play/a0j4/index.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME-IXP" group-title="Cine Premium",HBO EXTREME-IXP
+http://138.59.177.78:9999/play/a09a/index.m3u8
+#EXTINF:-1 tvg-name="HBO FAMILY-IXP" group-title="Cine Premium",HBO FAMILY-IXP
+http://138.59.177.78:9999/play/a097/index.m3u8
+#EXTINF:-1 tvg-name="HBO PLUS-IXP" group-title="Cine Premium",HBO PLUS-IXP
+http://138.59.177.78:9999/play/a099/index.m3u8
+#EXTINF:-1 tvg-name="HBO XTREME" group-title="Cine Premium",HBO XTREME
+http://138.59.177.78:9999/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-name="HBO-IXP" group-title="Cine Premium",HBO-IXP
+http://138.59.177.78:9999/play/a098/index.m3u8
+#EXTINF:-1 tvg-name="HBO2-IXP" group-title="Cine Premium",HBO2-IXP
+http://138.59.177.78:9999/play/a096/index.m3u8
+#EXTINF:-1 tvg-name="HCH EZ-TRA" group-title="Tv Cable",HCH EZ-TRA
+http://138.59.177.78:9999/play/a0hf/index.m3u8
+#EXTINF:-1 tvg-name="HCH IXP" group-title="Tv Cable",HCH IXP
+http://138.59.177.78:9999/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="HGTV" group-title="Tv Cable",HGTV
+http://138.59.177.78:9999/play/a0fy/index.m3u8
+#EXTINF:-1 tvg-name="HGTV EZ-TRA" group-title="Tv Cable",HGTV EZ-TRA
+http://138.59.177.78:9999/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY 2 EZ-TRA" group-title="Tv Cable",HISTORY 2 EZ-TRA
+http://138.59.177.78:9999/play/a0j3/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY 2-IXP" group-title="Tv Cable",HISTORY 2-IXP
+http://138.59.177.78:9999/play/a084/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY-IXP" group-title="Tv Cable",HISTORY-IXP
+http://138.59.177.78:9999/play/a083/index.m3u8
+#EXTINF:-1 tvg-name="HOLA! TV-IXP" group-title="Tv Cable",HOLA! TV-IXP
+http://138.59.177.78:9999/play/a09u/index.m3u8
+#EXTINF:-1 tvg-name="HONDURED" group-title="Tv Cable",HONDURED
+http://138.59.177.78:9999/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-name="HONDURED EZ-TRA" group-title="Tv Cable",HONDURED EZ-TRA
+http://138.59.177.78:9999/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-name="HTV EZ-TRA" group-title="Tv Cable",HTV EZ-TRA
+http://138.59.177.78:9999/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-name="HTV-IXP" group-title="Tv Cable",HTV-IXP
+http://138.59.177.78:9999/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-name="History Channel" group-title="Tv Cable",History Channel
+http://138.59.177.78:9999/play/a0e5/index.m3u8
+#EXTINF:-1 tvg-name="Home Garden Latino" group-title="Tv Cable",Home Garden Latino
+http://138.59.177.78:9999/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-name="ID CHANNEL EZ-TRA" group-title="Tv Cable",ID CHANNEL EZ-TRA
+http://138.59.177.78:9999/play/a0j1/index.m3u8
+#EXTINF:-1 tvg-name="ID CHANNEL-IXP" group-title="Tv Cable",ID CHANNEL-IXP
+http://138.59.177.78:9999/play/a089/index.m3u8
+#EXTINF:-1 tvg-name="INTI" group-title="Tv Cable",INTI
+http://138.59.177.78:9999/play/a0fu/index.m3u8
+#EXTINF:-1 tvg-name="INTI EZ-TRA" group-title="Tv Cable",INTI EZ-TRA
+http://138.59.177.78:9999/play/a0j0/index.m3u8
+#EXTINF:-1 tvg-name="KBS" group-title="Tv Cable",KBS
+http://138.59.177.78:9999/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-name="KBS EZ-TRA" group-title="Tv Cable",KBS EZ-TRA
+http://138.59.177.78:9999/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-name="LA LIGA" group-title="Deportes",LA LIGA
+http://138.59.177.78:9999/play/a08c/index.m3u8
+#EXTINF:-1 tvg-name="LA LIGA EZ-TRA" group-title="Deportes",LA LIGA EZ-TRA
+http://138.59.177.78:9999/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-name="LIFE TIME EZ-TRA" group-title="Tv Cable",LIFE TIME EZ-TRA
+http://138.59.177.78:9999/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-name="LIFE TIME-IXP" group-title="Tv Cable",LIFE TIME-IXP
+http://138.59.177.78:9999/play/a09b/index.m3u8
+#EXTINF:-1 tvg-name="MARIA VISION EZ-TRA" group-title="Tv Cable",MARIA VISION EZ-TRA
+http://138.59.177.78:9999/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-name="MARIA VISION-IXP" group-title="Tv Cable",MARIA VISION-IXP
+http://138.59.177.78:9999/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-name="MAS CHIC-IXP" group-title="Tv Cable",MAS CHIC-IXP
+http://138.59.177.78:9999/play/a08z/index.m3u8
+#EXTINF:-1 tvg-name="MI MUSICA ROMANTICA" group-title="Tv Cable",MI MUSICA ROMANTICA
+http://138.59.177.78:9999/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-name="MI MUSICA ROMANTICA EZ-TRA" group-title="Tv Cable",MI MUSICA ROMANTICA EZ-TRA
+http://138.59.177.78:9999/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-name="MILENIO HD" group-title="Tv Cable",MILENIO HD
+http://138.59.177.78:9999/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-name="MILENIO HD EZ-TRA" group-title="Tv Cable",MILENIO HD EZ-TRA
+http://138.59.177.78:9999/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-name="MP" group-title="Tv Cable",MP
+http://138.59.177.78:9999/play/a0g2/index.m3u8
+#EXTINF:-1 tvg-name="MP EZ-TRA" group-title="Tv Cable",MP EZ-TRA
+http://138.59.177.78:9999/play/a0iv/index.m3u8
+#EXTINF:-1 tvg-name="Multicinema" group-title="Tv Cable",Multicinema
+http://138.59.177.78:9999/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-name="Multimedios" group-title="Tv Cable",Multimedios
+http://138.59.177.78:9999/play/a0be/index.m3u8
+#EXTINF:-1 tvg-name="NAT GEO-IXP" group-title="Tv Cable",NAT GEO-IXP
+http://138.59.177.78:9999/play/a086/index.m3u8
+#EXTINF:-1 tvg-name="NBC" group-title="Tv Cable",NBC
+http://138.59.177.78:9999/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-name="NBC EZ-TRA" group-title="Tv Cable",NBC EZ-TRA
+http://138.59.177.78:9999/play/a0iu/index.m3u8
+#EXTINF:-1 tvg-name="NICK JR-IXP" group-title="Tv Niños",NICK JR-IXP
+http://138.59.177.78:9999/play/a01a/index.m3u8
+#EXTINF:-1 tvg-name="NICKELODEON-IXP" group-title="Tv Niños",NICKELODEON-IXP
+http://138.59.177.78:9999/play/a01s/index.m3u8
+#EXTINF:-1 tvg-name="NOVELISMA" group-title="Novelas",NOVELISMA
+http://138.59.177.78:9999/play/a0gg/index.m3u8
+#EXTINF:-1 tvg-name="NOVELISMA EZ-TRA" group-title="Novelas",NOVELISMA EZ-TRA
+http://138.59.177.78:9999/play/a0it/index.m3u8
+#EXTINF:-1 tvg-name="NUESTRA TELE NCN" group-title="Novelas",NUESTRA TELE NCN
+http://138.59.177.78:9999/play/a0gn/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo HD" group-title="Tv Cable",Nat Geo HD
+http://138.59.177.78:9999/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-name="Nick SIM HD" group-title="Tv Cable",Nick SIM HD
+http://138.59.177.78:9999/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-name="PANICO EZ-TRA" group-title="Tv Cable",PANICO EZ-TRA
+http://138.59.177.78:9999/play/a0is/index.m3u8
+#EXTINF:-1 tvg-name="PANICO-IXP" group-title="Tv Cable",PANICO-IXP
+http://138.59.177.78:9999/play/a07i/index.m3u8
+#EXTINF:-1 tvg-name="Cine Premium" group-title="Cine Premium",Cine Premium
+http://138.59.177.78:9999/play/a07h/index.m3u8
+#EXTINF:-1 tvg-name="PASIONES-IXP" group-title="Novelas",PASIONES-IXP
+http://138.59.177.78:9999/play/a08d/index.m3u8
+#EXTINF:-1 tvg-name="PICOSA EZ-TRA" group-title="Tv Cable",PICOSA EZ-TRA
+http://138.59.177.78:9999/play/a0ir/index.m3u8
+#EXTINF:-1 tvg-name="PICOSA-IXP" group-title="Tv Cable",PICOSA-IXP
+http://138.59.177.78:9999/play/a09z/index.m3u8
+#EXTINF:-1 tvg-name="PRUEBA 1" group-title="Tv Cable",PRUEBA 1
+http://138.59.177.78:9999/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-name="PRUEBA 2" group-title="Tv Cable",PRUEBA 2
+http://138.59.177.78:9999/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-name="PRUEBA 3" group-title="Tv Cable",PRUEBA 3
+http://138.59.177.78:9999/play/a0gx/index.m3u8
+#EXTINF:-1 tvg-name="PRUEBA 4" group-title="Tv Cable",PRUEBA 4
+http://138.59.177.78:9999/play/a0gy/index.m3u8
+#EXTINF:-1 tvg-name="PRUEBA 7" group-title="Tv Cable",PRUEBA 7
+http://138.59.177.78:9999/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-name="PRUEBA 8" group-title="Tv Cable",PRUEBA 8
+http://138.59.177.78:9999/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-name="Paramount" group-title="Tv Cable",Paramount
+http://138.59.177.78:9999/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-name="Playboy" group-title="Tv Cable",Playboy
+http://138.59.177.78:9999/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-name="Q HUBO TV EZ-TRA" group-title="Tv Cable",Q HUBO TV EZ-TRA
+http://138.59.177.78:9999/play/a0iq/index.m3u8
+#EXTINF:-1 tvg-name="Q HUBO TV-IXP" group-title="Tv Cable",Q HUBO TV-IXP
+http://138.59.177.78:9999/play/a05k/index.m3u8
+#EXTINF:-1 tvg-name="RAI ITALIA" group-title="Tv Cable",RAI ITALIA
+http://138.59.177.78:9999/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-name="RAI ITALIA EZ-TRA" group-title="Tv Cable",RAI ITALIA EZ-TRA
+http://138.59.177.78:9999/play/a0ip/index.m3u8
+#EXTINF:-1 tvg-name="RCN - GUA" group-title="Tv Cable",RCN - GUA
+http://138.59.177.78:9999/play/a0en/index.m3u8
+#EXTINF:-1 tvg-name="RCN NOVELAS EZ-TRA" group-title="Novelas",RCN NOVELAS EZ-TRA
+http://138.59.177.78:9999/play/a0io/index.m3u8
+#EXTINF:-1 tvg-name="RCN NOVELAS-IXP" group-title="Novelas",RCN NOVELAS-IXP
+http://138.59.177.78:9999/play/a09g/index.m3u8
+#EXTINF:-1 tvg-name="RNN - RD" group-title="Tv Cable",RNN - RD
+http://138.59.177.78:9999/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-name="RT" group-title="Tv Cable",RT
+http://138.59.177.78:9999/play/a0gh/index.m3u8
+#EXTINF:-1 tvg-name="RT NOTICIAS" group-title="Tv Cable",RT NOTICIAS
+http://138.59.177.78:9999/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-name="RT NOTICIAS EZ-TRA" group-title="Tv Cable",RT NOTICIAS EZ-TRA
+http://138.59.177.78:9999/play/a0in/index.m3u8
+#EXTINF:-1 tvg-name="RURAL EZ-TRA" group-title="Tv Cable",RURAL EZ-TRA
+http://138.59.177.78:9999/play/a0im/index.m3u8
+#EXTINF:-1 tvg-name="RURAL-IXP" group-title="Tv Cable",RURAL-IXP
+http://138.59.177.78:9999/play/a08m/index.m3u8
+#EXTINF:-1 tvg-name="SEMILLITAS-IXP" group-title="Tv Cable",SEMILLITAS-IXP
+http://138.59.177.78:9999/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-name="SONY" group-title="Cine Premium",SONY
+http://138.59.177.78:9999/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-name="SONY HD" group-title="Cine Premium",SONY HD
+http://138.59.177.78:9999/play/a0eb/index.m3u8
+#EXTINF:-1 tvg-name="SONY MOVIE-IXP" group-title="Cine Premium",SONY MOVIE-IXP
+http://138.59.177.78:9999/play/a07d/index.m3u8
+#EXTINF:-1 tvg-name="SONY-IXP" group-title="Cine Premium",SONY-IXP
+http://138.59.177.78:9999/play/a07e/index.m3u8
+#EXTINF:-1 tvg-name="SPACE" group-title="Cine Premium",SPACE
+http://138.59.177.78:9999/play/a0co/index.m3u8
+#EXTINF:-1 tvg-name="SPACE-IXP" group-title="Cine Premium",SPACE-IXP
+http://138.59.177.78:9999/play/a06j/index.m3u8
+#EXTINF:-1 tvg-name="SPZ HCH" group-title="Tv Cable",SPZ HCH
+http://138.59.177.78:9999/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-name="SPZ TELEMUNDO MIAMI" group-title="Novelas",SPZ TELEMUNDO MIAMI
+http://138.59.177.78:9999/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-name="STAR CHANNEL HD" group-title="Cine Premium",STAR CHANNEL HD
+http://138.59.177.78:9999/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-name="STAR CHANNEL-IXP" group-title="Cine Premium",STAR CHANNEL-IXP
+http://138.59.177.78:9999/play/a071/index.m3u8
+#EXTINF:-1 tvg-name="STAR TVE-IXP" group-title="Tv Cable",STAR TVE-IXP
+http://138.59.177.78:9999/play/a09f/index.m3u8
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL-IXP" group-title="Cine Premium",STUDIO UNIVERSAL-IXP
+http://138.59.177.78:9999/play/a07f/index.m3u8
+#EXTINF:-1 tvg-name="SUN" group-title="Tv Cable",SUN
+http://138.59.177.78:9999/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-name="SUN EZ-TRA" group-title="Tv Cable",SUN EZ-TRA
+http://138.59.177.78:9999/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-name="SUYAPA TV-IXP" group-title="Tv Cable",SUYAPA TV-IXP
+http://138.59.177.78:9999/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-name="Sembrador" group-title="Tv Cable",Sembrador
+http://138.59.177.78:9999/play/a0di/index.m3u8
+#EXTINF:-1 tvg-name="Sony Movies HD EZ-TRA" group-title="Cine Premium",Sony Movies HD EZ-TRA
+http://138.59.177.78:9999/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-name="Star TVE HD EZ-TRA" group-title="Tv Cable",Star TVE HD EZ-TRA
+http://138.59.177.78:9999/play/a0k9/index.m3u8
+#EXTINF:-1 tvg-name="TBN Enlace" group-title="Tv Cable",TBN Enlace
+http://138.59.177.78:9999/play/a02q/index.m3u8
+#EXTINF:-1 tvg-name="TBN Enlace EZ-TRA" group-title="Tv Cable",TBN Enlace EZ-TRA
+http://138.59.177.78:9999/play/a0il/index.m3u8
+#EXTINF:-1 tvg-name="TCM-IXP" group-title="Tv Cable",TCM-IXP
+http://138.59.177.78:9999/play/a07n/index.m3u8
+#EXTINF:-1 tvg-name="TD+2 HD CR" group-title="Tv Cable",TD+2 HD CR
+http://138.59.177.78:9999/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-name="TD+HD CR" group-title="Tv Cable",TD+HD CR
+http://138.59.177.78:9999/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-name="TELECADENA EZ-TRA" group-title="Tv Cable",TELECADENA EZ-TRA
+http://138.59.177.78:9999/play/a0hl/index.m3u8
+#EXTINF:-1 tvg-name="TELECADENA-IXP" group-title="Tv Cable",TELECADENA-IXP
+http://138.59.177.78:9999/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name="TELECEIBA EZ-TRA" group-title="Tv Cable",TELECEIBA EZ-TRA
+http://138.59.177.78:9999/play/a0hr/index.m3u8
+#EXTINF:-1 tvg-name="TELECEIBA-IXP" group-title="Tv Cable",TELECEIBA-IXP
+http://138.59.177.78:9999/play/a09y/index.m3u8
+#EXTINF:-1 tvg-name="TELEHIT" group-title="Tv Cable",TELEHIT
+http://138.59.177.78:9999/play/a009/index.m3u8
+#EXTINF:-1 tvg-name="TELEHIT MUSICA" group-title="Tv Cable",TELEHIT MUSICA
+http://138.59.177.78:9999/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="TELEHIT MUSICA EZ-TRA" group-title="Tv Cable",TELEHIT MUSICA EZ-TRA
+http://138.59.177.78:9999/play/a0hx/index.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO EZ-TRA" group-title="Novelas",TELEMUNDO EZ-TRA
+http://138.59.177.78:9999/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO MIAMI EZ-TRA" group-title="Novelas",TELEMUNDO MIAMI EZ-TRA
+http://138.59.177.78:9999/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO MIAMI-IXP" group-title="Novelas",TELEMUNDO MIAMI-IXP
+http://138.59.177.78:9999/play/a05g/index.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO-IXP" group-title="Novelas",TELEMUNDO-IXP
+http://138.59.177.78:9999/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="TELESUR EZ-TRA" group-title="Tv Cable",TELESUR EZ-TRA
+http://138.59.177.78:9999/play/a0ii/index.m3u8
+#EXTINF:-1 tvg-name="TELESUR-IXP" group-title="Tv Cable",TELESUR-IXP
+http://138.59.177.78:9999/play/a08f/index.m3u8
+#EXTINF:-1 tvg-name="TELETICA" group-title="Tv Cable",TELETICA
+http://138.59.177.78:9999/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-name="TELETICA EZ-TRA" group-title="Tv Cable",TELETICA EZ-TRA
+http://138.59.177.78:9999/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-name="TENNIS TV" group-title="Tv Cable",TENNIS TV
+http://138.59.177.78:9999/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-name="TENNIS TV EZ-TRA" group-title="Tv Cable",TENNIS TV EZ-TRA
+http://138.59.177.78:9999/play/a0ig/index.m3u8
+#EXTINF:-1 tvg-name="TLC-IXP" group-title="Tv Cable",TLC-IXP
+http://138.59.177.78:9999/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-name="TLNOVELAS EZ-TRA" group-title="Novelas",TLNOVELAS EZ-TRA
+http://138.59.177.78:9999/play/a0id/index.m3u8
+#EXTINF:-1 tvg-name="TLNOVELAS-IXP" group-title="Novelas",TLNOVELAS-IXP
+http://138.59.177.78:9999/play/a09x/index.m3u8
+#EXTINF:-1 tvg-name="TNT HD" group-title="Cine Premium",TNT HD
+http://138.59.177.78:9999/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-name="TNT NOVELAS-IXP" group-title="Novelas",TNT NOVELAS-IXP
+http://138.59.177.78:9999/play/a007/index.m3u8
+#EXTINF:-1 tvg-name="TNT SERIES-IXP" group-title="Series",TNT SERIES-IXP
+http://138.59.177.78:9999/play/a05x/index.m3u8
+#EXTINF:-1 tvg-name="TNT Series HD" group-title="Series",TNT Series HD
+http://138.59.177.78:9999/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-name="TNT-IXP",TNT-IXP
+http://138.59.177.78:9999/play/a061/index.m3u8
+#EXTINF:-1 tvg-name="TOONCAST-IXP" group-title="Tv Niños",TOONCAST-IXP
+http://138.59.177.78:9999/play/a02t/index.m3u8
+#EXTINF:-1 tvg-name="TSI EZ-TRA" group-title="Tv Cable",TSI EZ-TRA
+http://138.59.177.78:9999/play/a0hj/index.m3u8
+#EXTINF:-1 tvg-name="TSI-IXP" group-title="Tv Cable",TSI-IXP
+http://138.59.177.78:9999/play/a00c/index.m3u8
+#EXTINF:-1 tvg-name="TUDN EZ-TRA" group-title="Tv Cable",TUDN EZ-TRA
+http://138.59.177.78:9999/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-name="TUDN-IXP" group-title="Tv Cable",TUDN-IXP
+http://138.59.177.78:9999/play/a07z/index.m3u8
+#EXTINF:-1 tvg-name="TURBO EZ-TRA" group-title="Tv Cable",TURBO EZ-TRA
+http://138.59.177.78:9999/play/a0ie/index.m3u8
+#EXTINF:-1 tvg-name="TURBO-IXP" group-title="Tv Cable",TURBO-IXP
+http://138.59.177.78:9999/play/a08s/index.m3u8
+#EXTINF:-1 tvg-name="TV AGRO" group-title="Tv Cable",TV AGRO
+http://138.59.177.78:9999/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-name="TV AGRO EZ-TRA" group-title="Tv Cable",TV AGRO EZ-TRA
+http://138.59.177.78:9999/play/a0if/index.m3u8
+#EXTINF:-1 tvg-name="TVChile" group-title="Tv Cable",TVChile
+http://138.59.177.78:9999/play/a0av/index.m3u8
+#EXTINF:-1 tvg-name="TVE" group-title="Tv Cable",TVE
+http://138.59.177.78:9999/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-name="TVM25 -  ESA" group-title="Tv Cable",TVM25 -  ESA
+http://138.59.177.78:9999/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-name="TYC DEPORTES" group-title="Deportes",TYC DEPORTES
+http://138.59.177.78:9999/play/a0g1/index.m3u8
+#EXTINF:-1 tvg-name="TYC DEPORTES EZ-TRA" group-title="Deportes",TYC DEPORTES EZ-TRA
+http://138.59.177.78:9999/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-name="TeleMicro - RD" group-title="Tv Cable",TeleMicro - RD
+http://138.59.177.78:9999/play/a0du/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo HD" group-title="Novelas",Telemundo HD
+http://138.59.177.78:9999/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo-Mundial" group-title="Novelas",Telemundo-Mundial
+http://138.59.177.78:9999/play/a0ha/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo-Mundial EZ-TRA" group-title="Novelas",Telemundo-Mundial EZ-TRA
+http://138.59.177.78:9999/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-name="Televida RD" group-title="Tv Cable",Televida RD
+http://138.59.177.78:9999/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports HD" group-title="Deportes",Tigo Sports HD
+http://138.59.177.78:9999/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-name="UNE TV-IXP" group-title="Tv Cable",UNE TV-IXP
+http://138.59.177.78:9999/play/a05h/index.m3u8
+#EXTINF:-1 tvg-name="UNICABLE EZ-TRA" group-title="Tv Cable",UNICABLE EZ-TRA
+http://138.59.177.78:9999/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-name="UNICABLE-IXP" group-title="Tv Cable",UNICABLE-IXP
+http://138.59.177.78:9999/play/a08a/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL" group-title="Cine Premium",UNIVERSAL
+http://138.59.177.78:9999/play/a08g/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="Cine Premium",UNIVERSAL CINEMA ESTE HD
+http://138.59.177.78:9999/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL COMEDY EZ-TRA" group-title="Cine Premium",UNIVERSAL COMEDY EZ-TRA
+http://138.59.177.78:9999/play/a0i9/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL COMEDY-IXP" group-title="Cine Premium",UNIVERSAL COMEDY-IXP
+http://138.59.177.78:9999/play/a09k/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CRIME  EZ-TRA" group-title="Cine Premium",UNIVERSAL CRIME  EZ-TRA
+http://138.59.177.78:9999/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CRIME-IXP" group-title="Cine Premium",UNIVERSAL CRIME-IXP
+http://138.59.177.78:9999/play/a09l/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL EZ-NET" group-title="Cine Premium",UNIVERSAL EZ-NET
+http://138.59.177.78:9999/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIER 2 EZ-TRA" group-title="Cine Premium",UNIVERSAL PREMIER 2 EZ-TRA
+http://138.59.177.78:9999/play/a0i8/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIER 2-IXP" group-title="Cine Premium",UNIVERSAL PREMIER 2-IXP
+http://138.59.177.78:9999/play/a09n/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIER EZ-TRA" group-title="Cine Premium",UNIVERSAL PREMIER EZ-TRA
+http://138.59.177.78:9999/play/a0i6/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIER-IXP" group-title="Cine Premium",UNIVERSAL PREMIER-IXP
+http://138.59.177.78:9999/play/a09m/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIERE HD EZ-TRA" group-title="Cine Premium",UNIVERSAL PREMIERE HD EZ-TRA
+http://138.59.177.78:9999/play/a0k2/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL REALITY EZ-TRA" group-title="Novelas",UNIVERSAL REALITY EZ-TRA
+http://138.59.177.78:9999/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL REALITY HD EZ-TRA" group-title="Novelas",UNIVERSAL REALITY HD EZ-TRA
+http://138.59.177.78:9999/play/a0k3/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL REALITY-IXP" group-title="Novelas",UNIVERSAL REALITY-IXP
+http://138.59.177.78:9999/play/a09o/index.m3u8
+#EXTINF:-1 tvg-name="UNIVISION EZ-TRA" group-title="Tv Cable",UNIVISION EZ-TRA
+http://138.59.177.78:9999/play/a0hg/index.m3u8
+#EXTINF:-1 tvg-name="UNIVISION-IXP" group-title="Tv Cable",UNIVISION-IXP
+http://138.59.177.78:9999/play/a03c/index.m3u8
+#EXTINF:-1 tvg-name="USA CHANNEL EZ-TRA" group-title="Tv Cable",USA CHANNEL EZ-TRA
+http://138.59.177.78:9999/play/a0ic/index.m3u8
+#EXTINF:-1 tvg-name="USA CHANNEL-IXP" group-title="Tv Cable",USA CHANNEL-IXP
+http://138.59.177.78:9999/play/a087/index.m3u8
+#EXTINF:-1 tvg-name="USA CHANNEL-IXP (clone)" group-title="Tv Cable",USA CHANNEL-IXP (clone)
+http://138.59.177.78:9999/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-name="VENUS" group-title="Tv Cable",VENUS
+http://138.59.177.78:9999/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-name="VIDEO ROLA" group-title="Tv Cable",VIDEO ROLA
+http://138.59.177.78:9999/play/a008/index.m3u8
+#EXTINF:-1 tvg-name="VIDEO ROLA EZ-TRA" group-title="Tv Cable",VIDEO ROLA EZ-TRA
+http://138.59.177.78:9999/play/a0hq/index.m3u8
+#EXTINF:-1 tvg-name="VIDEO ROLA-IXP" group-title="Tv Cable",VIDEO ROLA-IXP
+http://138.59.177.78:9999/play/a08r/index.m3u8
+#EXTINF:-1 tvg-name="WARNER-IXP" group-title="Tv Cable",WARNER-IXP
+http://138.59.177.78:9999/play/a06v/index.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" group-title="Tv Cable",ZooMoo
+http://138.59.177.78:9999/play/a0as/index.m3u8
+#EXTINF:-1 tvg-name="cine mexicano sat" group-title="Tv Cable",cine mexicano sat
+http://138.59.177.78:9999/play/a0h5/index.m3u8
+#EXTINF:-1 tvg-name="deportes tvc sat" group-title="Deportes",deportes tvc sat
+http://138.59.177.78:9999/play/a0h7/index.m3u8
+#EXTINF:-1 tvg-name="unicable sat" group-title="Tv Cable",unicable sat
+http://138.59.177.78:9999/play/a0h4/index.m3u8
