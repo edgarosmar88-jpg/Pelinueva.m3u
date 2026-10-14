@@ -693,3 +693,101 @@ https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1555365.ts
 https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1555355.ts
 #EXTINF:0 CUID="21348" tvg-name="NETFLIX ESPAÑOL ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1387696.png" group-title="ES| 24/7 ESPAÑA ⱽᴵᴾ",NETFLIX ESPAÑOL ᴿᴬᵂ
 https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1555354.ts
+#EXTINF:0 CUID="200" tvg-name="#### ES| DOCUMENTALES VIP SD ####" tvg-id="mplusdocumentaleses.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| DOCUMENTALES VIP",#### ES| DOCUMENTALES VIP SD ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839898.ts
+#EXTINF:0 CUID="201" tvg-name="#### ES| DOCUMENTALES VIP ᴴᴰ ####" tvg-id="mplusdocumentaleses.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| DOCUMENTALES VIP",#### ES| DOCUMENTALES VIP ᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839909.ts
+#EXTINF:0 CUID="202" tvg-name="#### ES| DOCUMENTALES VIP ᵁᴴᴰ ####" tvg-id="mplusdocumentaleses.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| DOCUMENTALES VIP",#### ES| DOCUMENTALES VIP ᵁᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839888.ts
+#EXTINF:0 CUID="20828" tvg-name="AMC BREAK SD" tvg-id="amcbreak.es" tvg-logo="https://logo.m3uassets.com/amcbreak.png" group-title="ES| DOCUMENTALES VIP",AMC BREAK SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839891.ts
+#EXTINF:0 CUID="20829" tvg-name="AMC BREAK ᴴᴰ" tvg-id="amcbreak.es" tvg-logo="https://logo.m3uassets.com/amcbreak.png" group-title="ES| DOCUMENTALES VIP",AMC BREAK ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839902.ts
+#EXTINF:0 CUID="20831" tvg-name="AMC CRIME SD" tvg-id="amccrime.es" tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="ES| DOCUMENTALES VIP",AMC CRIME SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839890.ts
+#EXTINF:0 CUID="20832" tvg-name="AMC CRIME ᴴᴰ" tvg-id="amccrime.es" tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="ES| DOCUMENTALES VIP",AMC CRIME ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839901.ts
+#EXTINF:0 CUID="20854" tvg-name="BBC FOOD SD" tvg-id="bbcfood.es" tvg-logo="https://logo.m3uassets.com/bbcfood.png" group-title="ES| DOCUMENTALES VIP",BBC FOOD SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579775.ts
+#EXTINF:0 CUID="20855" tvg-name="BBC FOOD ᴴᴰ" tvg-id="bbcfood.es" tvg-logo="https://logo.m3uassets.com/bbcfood.png" group-title="ES| DOCUMENTALES VIP",BBC FOOD ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579774.ts
+#EXTINF:0 CUID="20856" tvg-name="BBC FOOD ᵁᴴᴰ" tvg-id="bbcfood.es" tvg-logo="https://logo.m3uassets.com/bbcfood.png" group-title="ES| DOCUMENTALES VIP",BBC FOOD ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579773.ts
+#EXTINF:0 CUID="20857" tvg-name="BBC HISTORY SD" tvg-id="bbchistoryes.es" tvg-logo="https://logo.m3uassets.com/history.png" group-title="ES| DOCUMENTALES VIP",BBC HISTORY SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579778.ts
+#EXTINF:0 CUID="20858" tvg-name="BBC HISTORY ᴴᴰ" tvg-id="bbchistoryes.es" tvg-logo="https://logo.m3uassets.com/history.png" group-title="ES| DOCUMENTALES VIP",BBC HISTORY ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579777.ts
+#EXTINF:0 CUID="20973" tvg-name="DISCOVERY CHANNEL SD" tvg-id="discoverychannel.es" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="ES| DOCUMENTALES VIP",DISCOVERY CHANNEL SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839894.ts
+#EXTINF:0 CUID="20974" tvg-name="DISCOVERY CHANNEL ᴴᴰ" tvg-id="discoverychannel.es" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="ES| DOCUMENTALES VIP",DISCOVERY CHANNEL ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839905.ts
+#EXTINF:0 CUID="20990" tvg-name="DMAX SD" tvg-id="dmax.es" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="ES| DOCUMENTALES VIP",DMAX SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839889.ts
+#EXTINF:0 CUID="20991" tvg-name="DMAX ᴴᴰ" tvg-id="dmax.es" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="ES| DOCUMENTALES VIP",DMAX ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839899.ts
+#EXTINF:0 CUID="21057" tvg-name="HISTORIA SD" tvg-id="historia.es" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="ES| DOCUMENTALES VIP",HISTORIA SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839895.ts
+#EXTINF:0 CUID="21058" tvg-name="HISTORIA ᴴᴰ" tvg-id="historia.es" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="ES| DOCUMENTALES VIP",HISTORIA ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839906.ts
+#EXTINF:0 CUID="21329" tvg-name="Max Avances SD" tvg-id="maxavances.es" tvg-logo="https://logo.m3uassets.com/avance.png" group-title="ES| DOCUMENTALES VIP",Max Avances SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579772.ts
+#EXTINF:0 CUID="21330" tvg-name="Max Avances ᴴᴰ" tvg-id="maxavances.es" tvg-logo="https://logo.m3uassets.com/avance.png" group-title="ES| DOCUMENTALES VIP",Max Avances ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1579771.ts
+#EXTINF:0 CUID="21332" tvg-name="NATIONAL GEOGRAPHICWILD ᴴᴰ" tvg-id="nationalgeographicwild.es" tvg-logo="https://logo.m3uassets.com/nationalgeographicwild.png" group-title="ES| DOCUMENTALES VIP",NATIONAL GEOGRAPHICWILD ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839907.ts
+#EXTINF:0 CUID="21333" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-id="nationalgeographic.es" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="ES| DOCUMENTALES VIP",NATIONAL GEOGRAPHIC SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839897.ts
+#EXTINF:0 CUID="21334" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-id="nationalgeographicwild.es" tvg-logo="https://logo.m3uassets.com/nationalgeographicwild.png" group-title="ES| DOCUMENTALES VIP",NATIONAL GEOGRAPHIC WILD SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839896.ts
+#EXTINF:0 CUID="21336" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-id="nationalgeographic.es" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="ES| DOCUMENTALES VIP",NATIONAL GEOGRAPHIC ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839908.ts
+#EXTINF:0 CUID="21395" tvg-name="ODISEA SD" tvg-id="odisea.es" tvg-logo="https://logo.m3uassets.com/odisea.png" group-title="ES| DOCUMENTALES VIP",ODISEA SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839893.ts
+#EXTINF:0 CUID="21397" tvg-name="ODISEA ᴴᴰ" tvg-id="odisea.es" tvg-logo="https://logo.m3uassets.com/odisea.png" group-title="ES| DOCUMENTALES VIP",ODISEA ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839904.ts
+#EXTINF:0 CUID="21398" tvg-name="ODISEA ᵁᴴᴰ" tvg-id="odisea.es" tvg-logo="https://logo.m3uassets.com/odisea.png" group-title="ES| DOCUMENTALES VIP",ODISEA ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839882.ts
+#EXTINF:0 CUID="203" tvg-name="#### ES| INFANTIL VIP SD ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| INFANTIL VIP",#### ES| INFANTIL VIP SD ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840041.ts
+#EXTINF:0 CUID="204" tvg-name="#### ES| INFANTIL VIP ᴴᴰ ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| INFANTIL VIP",#### ES| INFANTIL VIP ᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840052.ts
+#EXTINF:0 CUID="205" tvg-name="#### ES| INFANTIL VIP ᵁᴴᴰ ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| INFANTIL VIP",#### ES| INFANTIL VIP ᵁᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840031.ts
+#EXTINF:0 CUID="20853" tvg-name="BABY TV SD" tvg-id="babytvs.es" tvg-logo="https://logo.m3uassets.com/babytv.png" group-title="ES| INFANTIL VIP",BABY TV SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840032.ts
+#EXTINF:0 CUID="20871" tvg-name="BOING SD" tvg-id="boing.es" tvg-logo="https://logo.m3uassets.com/boing.png" group-title="ES| INFANTIL VIP",BOING SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840039.ts
+#EXTINF:0 CUID="20873" tvg-name="BOING ᵁᴴᴰ" tvg-id="boing.es" tvg-logo="https://logo.m3uassets.com/boing.png" group-title="ES| INFANTIL VIP",BOING ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840029.ts
+#EXTINF:0 CUID="20909" tvg-name="CLAN TVE SD" tvg-id="clantve.es" tvg-logo="https://logo.m3uassets.com/clantve.png" group-title="ES| INFANTIL VIP",CLAN TVE SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840040.ts
+#EXTINF:0 CUID="20910" tvg-name="CLAN TVE ᴴᴰ" tvg-id="clantve.es" tvg-logo="https://logo.m3uassets.com/clantve.png" group-title="ES| INFANTIL VIP",CLAN TVE ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840051.ts
+#EXTINF:0 CUID="20911" tvg-name="CLAN TVE ᵁᴴᴰ" tvg-id="clantve.es" tvg-logo="https://logo.m3uassets.com/clantve.png" group-title="ES| INFANTIL VIP",CLAN TVE ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840030.ts
+#EXTINF:0 CUID="20982" tvg-name="DISNEY JUNIOR SD" tvg-id="disneyjunior.es" tvg-logo="https://logo.m3uassets.com/disneyjunior.png" group-title="ES| INFANTIL VIP",DISNEY JUNIOR SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840034.ts
+#EXTINF:0 CUID="20993" tvg-name="DREAMWORKS SD" tvg-id="dreamworks.es" tvg-logo="https://logo.m3uassets.com/dreamworks.png" group-title="ES| INFANTIL VIP",DREAMWORKS SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840037.ts
+#EXTINF:0 CUID="20994" tvg-name="DREAMWORKS ᴴᴰ" tvg-id="dreamworks.es" tvg-logo="https://logo.m3uassets.com/dreamworks.png" group-title="ES| INFANTIL VIP",DREAMWORKS ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840046.ts
+#EXTINF:0 CUID="20995" tvg-name="DREAMWORKS ᵁᴴᴰ" tvg-id="dreamworks.es" tvg-logo="https://logo.m3uassets.com/dreamworks.png" group-title="ES| INFANTIL VIP",DREAMWORKS ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840027.ts
+#EXTINF:0 CUID="21385" tvg-name="NICK JUNIOR SD" tvg-id="nickjuniores.es" tvg-logo="https://logo.m3uassets.com/nickjunior.png" group-title="ES| INFANTIL VIP",NICK JUNIOR SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840033.ts
+#EXTINF:0 CUID="21386" tvg-name="NICK JUNIOR ᴴᴰ" tvg-id="nickjuniores.es" tvg-logo="https://logo.m3uassets.com/nickjunior.png" group-title="ES| INFANTIL VIP",NICK JUNIOR ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840042.ts
+#EXTINF:0 CUID="21387" tvg-name="NICK JUNIOR ᵁᴴᴰ" tvg-id="nickjuniores.es" tvg-logo="https://logo.m3uassets.com/nickjunior.png" group-title="ES| INFANTIL VIP",NICK JUNIOR ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840024.ts
+#EXTINF:0 CUID="21388" tvg-name="NICKELODEON SD" tvg-id="nickelodeon.es" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="ES| INFANTIL VIP",NICKELODEON SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840035.ts
+#EXTINF:0 CUID="21390" tvg-name="NICKELODEON ᴴᴰ" tvg-id="nickelodeon.es" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="ES| INFANTIL VIP",NICKELODEON ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840044.ts
+#EXTINF:0 CUID="21391" tvg-name="NICKELODEON ᵁᴴᴰ" tvg-id="nickelodeon.es" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="ES| INFANTIL VIP",NICKELODEON ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840025.ts
+#EXTINF:0 CUID="21440" tvg-name="REKTV SD" tvg-logo="https://logo.m3uassets.com/arektv.png" group-title="ES| INFANTIL VIP",REKTV SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/2103704.ts
+#EXTINF:0 CUID="21441" tvg-name="REKTV ᴴᴰ" tvg-logo="https://logo.m3uassets.com/arektv.png" group-title="ES| INFANTIL VIP",REKTV ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/2103703.ts
+#EXTINF:0 CUID="21442" tvg-name="REKTV ᵁᴴᴰ" tvg-logo="https://logo.m3uassets.com/arektv.png" group-title="ES| INFANTIL VIP",REKTV ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/2103702.ts
