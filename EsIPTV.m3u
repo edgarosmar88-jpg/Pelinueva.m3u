@@ -955,3 +955,309 @@ https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683722.ts
 https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839862.ts
 #EXTINF:0 CUID="20782" tvg-name="#VAMOS ᴴᴰ" tvg-id="vamos.es" tvg-logo="https://logo.m3uassets.com/vamos.png" group-title="ES| M+ VAMOS VIP",#VAMOS ᴴᴰ
 https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839868.ts
+#EXTINF:0 CUID="209" tvg-name="#### ES| MOVISTAR DEPORTES VIPSD ####" tvg-id="movistardeporteses.es" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES| MOVISTAR DEPORTES VIP",#### ES| MOVISTAR DEPORTES VIPSD ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839945.ts
+#EXTINF:0 CUID="210" tvg-name="#### ES| MOVISTAR DEPORTES VIP ᴴᴰ ####" tvg-id="movistardeporteses.es" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES| MOVISTAR DEPORTES VIP",#### ES| MOVISTAR DEPORTES VIP ᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839947.ts
+#EXTINF:0 CUID="21263" tvg-name="MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes2.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 2 SD (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839939.ts
+#EXTINF:0 CUID="21264" tvg-name="MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes2.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 2 ᵁᴴᴰ (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839940.ts
+#EXTINF:0 CUID="21265" tvg-name="MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes3.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 3 SD (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839938.ts
+#EXTINF:0 CUID="21266" tvg-name="MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes4.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 4 SD (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839937.ts
+#EXTINF:0 CUID="21267" tvg-name="MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes5.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839936.ts
+#EXTINF:0 CUID="21268" tvg-name="MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes6.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839935.ts
+#EXTINF:0 CUID="21269" tvg-name="MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes7.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839934.ts
+#EXTINF:0 CUID="21270" tvg-name="MOVISTAR DEPORTES SD" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839944.ts
+#EXTINF:0 CUID="21271" tvg-name="MOVISTAR DEPORTES ʰᵉᵛᶜ" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES ʰᵉᵛᶜ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839942.ts
+#EXTINF:0 CUID="21272" tvg-name="MOVISTAR DEPORTES ᴴᴰ" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistardeportes.png" group-title="ES| MOVISTAR DEPORTES VIP",MOVISTAR DEPORTES ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/839946.ts
+#EXTINF:0 CUID="212" tvg-name="#### ES| MOVISTAR PLUS+ VIP SD ####" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",#### ES| MOVISTAR PLUS+ VIP SD ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840095.ts
+#EXTINF:0 CUID="213" tvg-name="#### ES| MOVISTAR PLUS+ VIP ᴴᴰ ####" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",#### ES| MOVISTAR PLUS+ VIP ᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840101.ts
+#EXTINF:0 CUID="214" tvg-name="#### ES| MOVISTAR PLUS+ VIP ᵁᴴᴰ ####" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",#### ES| MOVISTAR PLUS+ VIP ᵁᴴᴰ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840089.ts
+#EXTINF:0 CUID="21274" tvg-name="MOVISTAR DOCUMENTALES SD" tvg-id="movistardocumentaleses.es" tvg-logo="https://logo.m3uassets.com/documentalespormovistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR DOCUMENTALES SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840091.ts
+#EXTINF:0 CUID="21275" tvg-name="MOVISTAR DOCUMENTALES ᴴᴰ" tvg-id="movistardocumentaleses.es" tvg-logo="https://logo.m3uassets.com/documentalespormovistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR DOCUMENTALES ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840097.ts
+#EXTINF:0 CUID="21291" tvg-name="MOVISTAR HITS SD" tvg-id="movistarhitses.es" tvg-logo="https://logo.m3uassets.com/movistar.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR HITS SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840092.ts
+#EXTINF:0 CUID="21292" tvg-name="MOVISTAR HITS ᴴᴰ" tvg-id="movistarhitses.es" tvg-logo="https://logo.m3uassets.com/movistar.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR HITS ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840098.ts
+#EXTINF:0 CUID="21315" tvg-name="MOVISTAR PLUS+ 2 SD" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR PLUS+ 2 SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840093.ts
+#EXTINF:0 CUID="21316" tvg-name="MOVISTAR PLUS+ 2 ᴴᴰ" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR PLUS+ 2 ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840099.ts
+#EXTINF:0 CUID="21317" tvg-name="MOVISTAR PLUS+ 2 ᵁᴴᴰ" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR PLUS+ 2 ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840087.ts
+#EXTINF:0 CUID="21318" tvg-name="MOVISTAR PLUS+ SD" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR PLUS+ SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840094.ts
+#EXTINF:0 CUID="21319" tvg-name="MOVISTAR PLUS+ ᴴᴰ" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR PLUS+ ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840100.ts
+#EXTINF:0 CUID="21320" tvg-name="MOVISTAR PLUS+ ᵁᴴᴰ" tvg-id="movistarpluses.es" tvg-logo="https://logo.m3uassets.com/movistarplus.png" group-title="ES| MOVISTAR PLUS+ VIP",MOVISTAR PLUS+ ᵁᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/840088.ts
+#EXTINF:0 CUID="262" tvg-name="#### MOVISTAR SPORT ᴿᴬᵂ ####" tvg-id="movistardeportes.es" tvg-logo="https://logo.m3uassets.com/movistaresports.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",#### MOVISTAR SPORT ᴿᴬᵂ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683619.ts
+#EXTINF:0 CUID="31098" tvg-name="#VAMOS ᴿᴬᵂ" tvg-id="vamos.es" tvg-logo="https://logo.m3uassets.com/vamos.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",#VAMOS ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683599.ts
+#EXTINF:0 CUID="31126" tvg-name="DAZN 1 ᴿᴬᵂ" tvg-id="dazn1.es" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683615.ts
+#EXTINF:0 CUID="31127" tvg-name="DAZN 2 ᴿᴬᵂ" tvg-id="dazn2.es" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683614.ts
+#EXTINF:0 CUID="31128" tvg-name="DAZN 3 ᴿᴬᵂ" tvg-id="dazn3es.es" tvg-logo="https://logo.m3uassets.com/dazn3.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683613.ts
+#EXTINF:0 CUID="31129" tvg-name="DAZN 4 ᴿᴬᵂ" tvg-id="dazn4es.es" tvg-logo="https://logo.m3uassets.com/dazn4.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN 4 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683612.ts
+#EXTINF:0 CUID="31130" tvg-name="DAZN F1 ᴿᴬᵂ" tvg-id="daznf1.es" tvg-logo="https://logo.m3uassets.com/daznf1.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN F1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683616.ts
+#EXTINF:0 CUID="31131" tvg-name="DAZN LA LIGA 2 ᴿᴬᵂ" tvg-id="daznlaliga.es" tvg-logo="https://logo.m3uassets.com/daznlaliga2.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN LA LIGA 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683617.ts
+#EXTINF:0 CUID="31132" tvg-name="DAZN LA LIGA ᴿᴬᵂ" tvg-id="daznlaliga.es" tvg-logo="https://logo.m3uassets.com/daznlaliga.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",DAZN LA LIGA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683618.ts
+#EXTINF:0 CUID="31146" tvg-name="EUROSPORT 1 ᴴᴰ" tvg-id="eurosport1.es" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",EUROSPORT 1 ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683596.ts
+#EXTINF:0 CUID="31147" tvg-name="EUROSPORT 1 ᴿᴬᵂ" tvg-id="eurosport1.es" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",EUROSPORT 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683598.ts
+#EXTINF:0 CUID="31148" tvg-name="EUROSPORT 2 ᴴᴰ" tvg-id="eurosport2.es" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",EUROSPORT 2 ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683595.ts
+#EXTINF:0 CUID="31149" tvg-name="EUROSPORT 2 ᴿᴬᵂ" tvg-id="eurosport2.es" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",EUROSPORT 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683597.ts
+#EXTINF:0 CUID="31164" tvg-name="M. LALIGA 4 SD" tvg-logo="https://logo.m3uassets.com/mlaliga4.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M. LALIGA 4 SD
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1713895.ts
+#EXTINF:0 CUID="31165" tvg-name="M. LALIGA 4 ᴴᴰ" tvg-logo="https://logo.m3uassets.com/mlaliga4.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M. LALIGA 4 ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1713897.ts
+#EXTINF:0 CUID="31166" tvg-name="M. LALIGA 4 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/mlaliga4.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M. LALIGA 4 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1713896.ts
+#EXTINF:0 CUID="31181" tvg-name="M.GOLF ᴿᴬᵂ" tvg-id="movistargolf2.es" tvg-logo="https://logo.m3uassets.com/mgolf.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.GOLF ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683600.ts
+#EXTINF:0 CUID="31183" tvg-name="M.LALIGA 2 ᴿᴬᵂ" tvg-id="mlaliga2.es" tvg-logo="https://logo.m3uassets.com/mlaliga2.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.LALIGA 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683610.ts
+#EXTINF:0 CUID="31184" tvg-name="M.LALIGA 3 ᴿᴬᵂ" tvg-id="mlaliga3.es" tvg-logo="https://logo.m3uassets.com/mlaliga3.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.LALIGA 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683609.ts
+#EXTINF:0 CUID="31185" tvg-name="M.LALIGA ᴿᴬᵂ" tvg-id="laligatv.es" tvg-logo="https://logo.m3uassets.com/mlaliga.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.LALIGA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683611.ts
+#EXTINF:0 CUID="31186" tvg-name="M.LCAMPEONES 2 ᴿᴬᵂ" tvg-id="mdeportes2.es" tvg-logo="https://logo.m3uassets.com/mlcampeones.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.LCAMPEONES 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683602.ts
+#EXTINF:0 CUID="31187" tvg-name="M.LCAMPEONES 3 ᴿᴬᵂ" tvg-id="mdeportes3.es" tvg-logo="https://logo.m3uassets.com/mlcampeones.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.LCAMPEONES 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683601.ts
+#EXTINF:0 CUID="31188" tvg-name="M.LCAMPEONES ᴿᴬᵂ" tvg-id="mligadecampeones.es" tvg-logo="https://logo.m3uassets.com/mlcampeones.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",M.LCAMPEONES ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683603.ts
+#EXTINF:0 CUID="31206" tvg-name="REAL MADRID TV ᴿᴬᵂ" tvg-id="realmadridtv.es" tvg-logo="https://logo.m3uassets.com/realmadridtv.png" group-title="ES| MOVISTAR SPORT ᴿᴬᵂ",REAL MADRID TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683594.ts
+#EXTINF:0 CUID="263" tvg-name="#### MOVISTAR ᴿᴬᵂ ####" tvg-id="movistarf1es.es" tvg-logo="https://logo.m3uassets.com/movistar.png" group-title="ES| MOVISTAR ᴿᴬᵂ",#### MOVISTAR ᴿᴬᵂ ####
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683718.ts
+#EXTINF:0 CUID="31099" tvg-name="24 HORAS ᴿᴬᵂ" tvg-id="24horas.es" tvg-logo="https://logo.m3uassets.com/24horas.png" group-title="ES| MOVISTAR ᴿᴬᵂ",24 HORAS ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683695.ts
+#EXTINF:0 CUID="31100" tvg-name="3 24 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/324.png" group-title="ES| MOVISTAR ᴿᴬᵂ",3 24 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683655.ts
+#EXTINF:0 CUID="31101" tvg-name="A PUNT ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/apunt.png" group-title="ES| MOVISTAR ᴿᴬᵂ",A PUNT ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683622.ts
+#EXTINF:0 CUID="31102" tvg-name="A3SERIES ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/a3series.png" group-title="ES| MOVISTAR ᴿᴬᵂ",A3SERIES ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683697.ts
+#EXTINF:0 CUID="31103" tvg-name="AMC BREAK ᴿᴬᵂ" tvg-id="amcbreak.es" tvg-logo="https://logo.m3uassets.com/amcbreak.png" group-title="ES| MOVISTAR ᴿᴬᵂ",AMC BREAK ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683636.ts
+#EXTINF:0 CUID="31104" tvg-name="AMC CRIME ᴿᴬᵂ" tvg-id="amccrime.es" tvg-logo="https://logo.m3uassets.com/amccrime.png" group-title="ES| MOVISTAR ᴿᴬᵂ",AMC CRIME ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683635.ts
+#EXTINF:0 CUID="31105" tvg-name="AMC ᴿᴬᵂ" tvg-id="amc.es" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="ES| MOVISTAR ᴿᴬᵂ",AMC ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683637.ts
+#EXTINF:0 CUID="31106" tvg-name="ANTENA 3 ᴿᴬᵂ" tvg-id="antena3.es" tvg-logo="https://logo.m3uassets.com/antena3.png" group-title="ES| MOVISTAR ᴿᴬᵂ",ANTENA 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683712.ts
+#EXTINF:0 CUID="31107" tvg-name="AXN MOVIES ᴿᴬᵂ" tvg-id="axnmovies.es" tvg-logo="https://logo.m3uassets.com/axnmovies.png" group-title="ES| MOVISTAR ᴿᴬᵂ",AXN MOVIES ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683658.ts
+#EXTINF:0 CUID="31108" tvg-name="AXN ᴿᴬᵂ" tvg-id="axn.es" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="ES| MOVISTAR ᴿᴬᵂ",AXN ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683660.ts
+#EXTINF:0 CUID="31109" tvg-name="BABY TV ᴿᴬᵂ" tvg-id="babytvs.es" tvg-logo="https://logo.m3uassets.com/babytv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",BABY TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683643.ts
+#EXTINF:0 CUID="31110" tvg-name="BE MAD ᴿᴬᵂ" tvg-id="bemad.es" tvg-logo="https://logo.m3uassets.com/bemad.png" group-title="ES| MOVISTAR ᴿᴬᵂ",BE MAD ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683698.ts
+#EXTINF:0 CUID="31112" tvg-name="BOM CINE ᴿᴬᵂ" tvg-id="bomcine.es" tvg-logo="https://logo.m3uassets.com/bomcine.png" group-title="ES| MOVISTAR ᴿᴬᵂ",BOM CINE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683709.ts
+#EXTINF:0 CUID="31113" tvg-name="BUEN VIAJE ᴿᴬᵂ" tvg-id="buenviajees.es" tvg-logo="https://logo.m3uassets.com/¡buenviaje!.png" group-title="ES| MOVISTAR ᴿᴬᵂ",BUEN VIAJE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683620.ts
+#EXTINF:0 CUID="31114" tvg-name="CALLE 13 ᴿᴬᵂ" tvg-id="calle13.es" tvg-logo="https://logo.m3uassets.com/calle13.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CALLE 13 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683656.ts
+#EXTINF:0 CUID="31115" tvg-name="CANAL COCINA ᴿᴬᵂ" tvg-id="canalcocina.es" tvg-logo="https://logo.m3uassets.com/canalcocina.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CANAL COCINA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683638.ts
+#EXTINF:0 CUID="31116" tvg-name="CANAL DECASA ᴿᴬᵂ" tvg-id="canaldecasa.es" tvg-logo="https://logo.m3uassets.com/canaldecasa.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CANAL DECASA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683639.ts
+#EXTINF:0 CUID="31117" tvg-name="CANAL ESTRELLAS ᴿᴬᵂ" tvg-id="canaldelasestrellas.es" tvg-logo="https://logo.m3uassets.com/canalestrellas.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CANAL ESTRELLAS ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683621.ts
+#EXTINF:0 CUID="31118" tvg-name="CANAL EXTREMADURA" tvg-id="canalextremadura.es" tvg-logo="https://logo.m3uassets.com/canalextremadura.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CANAL EXTREMADURA
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683625.ts
+#EXTINF:0 CUID="31119" tvg-name="CANAL SUR ANDALUCIA ᴿᴬᵂ" tvg-id="canalsurandalucia.es" tvg-logo="https://logo.m3uassets.com/canalsurandalucia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CANAL SUR ANDALUCIA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683714.ts
+#EXTINF:0 CUID="31120" tvg-name="CAZA Y PESCA ᴿᴬᵂ" tvg-id="cazaypesca.es" tvg-logo="https://logo.m3uassets.com/cazaypesca.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CAZA Y PESCA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683631.ts
+#EXTINF:0 CUID="31121" tvg-name="CLAN TVE ᴿᴬᵂ" tvg-id="clantve.es" tvg-logo="https://logo.m3uassets.com/clantve.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CLAN TVE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683647.ts
+#EXTINF:0 CUID="31122" tvg-name="CMM TV ᴿᴬᵂ" tvg-id="cmmtves.es" tvg-logo="https://logo.m3uassets.com/cmmtv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CMM TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683667.ts
+#EXTINF:0 CUID="31123" tvg-name="COMEDY CENTRAL ᴿᴬᵂ" tvg-id="comedycentral.es" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="ES| MOVISTAR ᴿᴬᵂ",COMEDY CENTRAL ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683653.ts
+#EXTINF:0 CUID="31124" tvg-name="COSMO ᴿᴬᵂ" tvg-id="cosmo.es" tvg-logo="https://logo.m3uassets.com/cosmo.png" group-title="ES| MOVISTAR ᴿᴬᵂ",COSMO ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683630.ts
+#EXTINF:0 CUID="31125" tvg-name="CUATRO ᴿᴬᵂ" tvg-id="cuatro.es" tvg-logo="https://logo.m3uassets.com/cuatro.png" group-title="ES| MOVISTAR ᴿᴬᵂ",CUATRO ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683710.ts
+#EXTINF:0 CUID="31133" tvg-name="DISCOVERY CHANEL ᴿᴬᵂ" tvg-id="discoverychannel.es" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="ES| MOVISTAR ᴿᴬᵂ",DISCOVERY CHANEL ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683626.ts
+#EXTINF:0 CUID="31134" tvg-name="DISNEY JR ᴿᴬᵂ" tvg-id="disneyjunior.es" tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="ES| MOVISTAR ᴿᴬᵂ",DISNEY JR ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683649.ts
+#EXTINF:0 CUID="31135" tvg-name="DIVINITY ᴿᴬᵂ" tvg-id="divinity.es" tvg-logo="https://logo.m3uassets.com/divinity.png" group-title="ES| MOVISTAR ᴿᴬᵂ",DIVINITY ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683702.ts
+#EXTINF:0 CUID="31136" tvg-name="DKISS TV ᴿᴬᵂ" tvg-id="dkiss.es" tvg-logo="https://logo.m3uassets.com/kisstv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",DKISS TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683696.ts
+#EXTINF:0 CUID="31137" tvg-name="DMAX ᴿᴬᵂ" tvg-id="dmax.es" tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="ES| MOVISTAR ᴿᴬᵂ",DMAX ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683703.ts
+#EXTINF:0 CUID="31139" tvg-name="EL 9 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13319.png?73589" group-title="ES| MOVISTAR ᴿᴬᵂ",EL 9 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683654.ts
+#EXTINF:0 CUID="31140" tvg-name="EL TOROᴿᴬᵂ" tvg-id="eltorotv.es" tvg-logo="https://logo.m3uassets.com/eltorotv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",EL TOROᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683659.ts
+#EXTINF:0 CUID="31141" tvg-name="EN FAMILIA ᴿᴬᵂ" tvg-id="enfamiliaes.es" tvg-logo="https://logo.m3uassets.com/enfamilia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",EN FAMILIA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683707.ts
+#EXTINF:0 CUID="31142" tvg-name="ENERGY ᴿᴬᵂ" tvg-id="energy.es" tvg-logo="https://logo.m3uassets.com/energy.png" group-title="ES| MOVISTAR ᴿᴬᵂ",ENERGY ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683704.ts
+#EXTINF:0 CUID="31143" tvg-name="ETB 1 ᴿᴬᵂ" tvg-id="etb1.es" tvg-logo="https://logo.m3uassets.com/etb1.png" group-title="ES| MOVISTAR ᴿᴬᵂ",ETB 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683689.ts
+#EXTINF:0 CUID="31144" tvg-name="ETB 2 ᴿᴬᵂ" tvg-id="etb2.es" tvg-logo="https://logo.m3uassets.com/etb2.png" group-title="ES| MOVISTAR ᴿᴬᵂ",ETB 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683687.ts
+#EXTINF:0 CUID="31145" tvg-name="ETB 3 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/etb3.png" group-title="ES| MOVISTAR ᴿᴬᵂ",ETB 3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683686.ts
+#EXTINF:0 CUID="31150" tvg-name="FDF ᴿᴬᵂ" tvg-id="fdf.es" tvg-logo="https://logo.m3uassets.com/fdf.png" group-title="ES| MOVISTAR ᴿᴬᵂ",FDF ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683705.ts
+#EXTINF:0 CUID="31151" tvg-name="FIGHT TIME ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/hightimes.png" group-title="ES| MOVISTAR ᴿᴬᵂ",FIGHT TIME ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683646.ts
+#EXTINF:0 CUID="31152" tvg-name="GALICIA TV ᴿᴬᵂ" tvg-id="galiciatv.es" tvg-logo="https://logo.m3uassets.com/galiciatv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",GALICIA TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683690.ts
+#EXTINF:0 CUID="31153" tvg-name="GOL ᴿᴬᵂ" tvg-id="gol.es" tvg-logo="https://logo.m3uassets.com/mgolf.png" group-title="ES| MOVISTAR ᴿᴬᵂ",GOL ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683685.ts
+#EXTINF:0 CUID="31154" tvg-name="HISTORIA ᴿᴬᵂ" tvg-id="historia.es" tvg-logo="https://logo.m3uassets.com/historia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",HISTORIA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683627.ts
+#EXTINF:0 CUID="31155" tvg-name="HIT TVᴿᴬᵂ" tvg-id="hittv.es" tvg-logo="https://logo.m3uassets.com/hittv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",HIT TVᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683682.ts
+#EXTINF:0 CUID="31156" tvg-name="HOLLYWOOD ᴿᴬᵂ" tvg-id="hollywood.es" tvg-logo="https://logo.m3uassets.com/hollywood.png" group-title="ES| MOVISTAR ᴿᴬᵂ",HOLLYWOOD ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683668.ts
+#EXTINF:0 CUID="31157" tvg-name="IBERALIA PESCA ᴿᴬᵂ" tvg-id="iberaliaes.es" tvg-logo="https://logo.m3uassets.com/iberalia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",IBERALIA PESCA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683632.ts
+#EXTINF:0 CUID="31158" tvg-name="IBERALIA ᴿᴬᵂ" tvg-id="iberalia.es" tvg-logo="https://logo.m3uassets.com/iberalia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",IBERALIA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683633.ts
+#EXTINF:0 CUID="31159" tvg-name="LA 1 ᴿᴬᵂ" tvg-id="la1.es" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="ES| MOVISTAR ᴿᴬᵂ",LA 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683717.ts
+#EXTINF:0 CUID="31160" tvg-name="LA 2 ᴿᴬᵂ" tvg-id="la2.es" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="ES| MOVISTAR ᴿᴬᵂ",LA 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683716.ts
+#EXTINF:0 CUID="31161" tvg-name="LA 7 ᴿᴬᵂ" tvg-id="la7.es" tvg-logo="https://logo.m3uassets.com/la7.png" group-title="ES| MOVISTAR ᴿᴬᵂ",LA 7 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683715.ts
+#EXTINF:0 CUID="31162" tvg-name="LA OTRA ᴿᴬᵂ" tvg-id="laotra.es" tvg-logo="https://logo.m3uassets.com/laotra.png" group-title="ES| MOVISTAR ᴿᴬᵂ",LA OTRA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683634.ts
+#EXTINF:0 CUID="31163" tvg-name="LA SEXTA ᴿᴬᵂ" tvg-id="lasexta.es" tvg-logo="https://logo.m3uassets.com/lasexta.png" group-title="ES| MOVISTAR ᴿᴬᵂ",LA SEXTA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683706.ts
+#EXTINF:0 CUID="31167" tvg-name="M.ACCION ᴿᴬᵂ" tvg-id="movistaraccion.es" tvg-logo="https://logo.m3uassets.com/maccion.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.ACCION ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683673.ts
+#EXTINF:0 CUID="31168" tvg-name="M.CINE Ñ ᴿᴬᵂ" tvg-id="movistardcine.es" tvg-logo="https://logo.m3uassets.com/mcineñ.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.CINE Ñ ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683669.ts
+#EXTINF:0 CUID="31169" tvg-name="M.CINE ᴴᴰ" tvg-id="bomcine.es" tvg-logo="https://logo.m3uassets.com/mcineñ.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.CINE ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683676.ts
+#EXTINF:0 CUID="31170" tvg-name="M.CINE ᴿᴬᵂ" tvg-id="bomcine.es" tvg-logo="https://logo.m3uassets.com/mcineñ.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.CINE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683677.ts
+#EXTINF:0 CUID="31171" tvg-name="M.COMEDIA ᴴᴰ" tvg-id="movistarcomedia.es" tvg-logo="https://logo.m3uassets.com/mcomedia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.COMEDIA ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683671.ts
+#EXTINF:0 CUID="31172" tvg-name="M.COMEDIA ᴿᴬᵂ" tvg-id="movistarcomedia.es" tvg-logo="https://logo.m3uassets.com/mcomedia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.COMEDIA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683672.ts
+#EXTINF:0 CUID="31178" tvg-name="M.DEPORTES ᴿᴬᵂ" tvg-id="mplusdeporteses.es" tvg-logo="https://logo.m3uassets.com/mdeportes.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.DEPORTES ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683680.ts
+#EXTINF:0 CUID="31179" tvg-name="M.DOCUMENTALES ᴿᴬᵂ" tvg-id="mplusdocumentales.es" tvg-logo="https://logo.m3uassets.com/documentaries.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.DOCUMENTALES ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683683.ts
+#EXTINF:0 CUID="31180" tvg-name="M.DRAMA ᴿᴬᵂ" tvg-id="mdramaes.es" tvg-logo="https://logo.m3uassets.com/mdrama.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.DRAMA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683670.ts
+#EXTINF:0 CUID="31182" tvg-name="M.HITS ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/vmhits.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.HITS ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683662.ts
+#EXTINF:0 CUID="31189" tvg-name="M.ORIGINALES ᴿᴬᵂ" tvg-id="mplusoriginales.es" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14238.png?41079" group-title="ES| MOVISTAR ᴿᴬᵂ",M.ORIGINALES ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683640.ts
+#EXTINF:0 CUID="31190" tvg-name="M.PLUS ᴴᴰ" tvg-id="movistarplus.es" tvg-logo="https://logo.m3uassets.com/plus.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.PLUS ᴴᴰ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683674.ts
+#EXTINF:0 CUID="31191" tvg-name="M.PLUS ᴿᴬᵂ" tvg-id="movistarplus.es" tvg-logo="https://logo.m3uassets.com/plus.png" group-title="ES| MOVISTAR ᴿᴬᵂ",M.PLUS ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683675.ts
+#EXTINF:0 CUID="31192" tvg-name="MEGA ᴿᴬᵂ" tvg-id="mega.es" tvg-logo="https://logo.m3uassets.com/mega.png" group-title="ES| MOVISTAR ᴿᴬᵂ",MEGA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683699.ts
+#EXTINF:0 CUID="31193" tvg-name="MOTO ADV ᴿᴬᵂ" tvg-id="motoadv.es" tvg-logo="https://logo.m3uassets.com/motoadv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",MOTO ADV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683642.ts
+#EXTINF:0 CUID="31194" tvg-name="MTV ESPANA ᴿᴬᵂ" tvg-id="mtvespaña.es" tvg-logo="https://logo.m3uassets.com/mtvespana.png" group-title="ES| MOVISTAR ᴿᴬᵂ",MTV ESPANA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683623.ts
+#EXTINF:0 CUID="31195" tvg-name="NAT GEO WILD ᴿᴬᵂ" tvg-id="natgeowildes.es" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NAT GEO WILD ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683628.ts
+#EXTINF:0 CUID="31196" tvg-name="NAT GEOGRAPHIC ᴿᴬᵂ" tvg-id="nationalgeographic.es" tvg-logo="https://logo.m3uassets.com/natgeographic.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NAT GEOGRAPHIC ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683629.ts
+#EXTINF:0 CUID="31197" tvg-name="NAUTICA ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/nautical.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NAUTICA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683681.ts
+#EXTINF:0 CUID="31198" tvg-name="NEGOCIOS TV ᴿᴬᵂ" tvg-id="negociostv.es" tvg-logo="https://logo.m3uassets.com/negociostv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NEGOCIOS TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683641.ts
+#EXTINF:0 CUID="31199" tvg-name="NEOX ᴿᴬᵂ" tvg-id="neox.es" tvg-logo="https://logo.m3uassets.com/neox.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NEOX ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683700.ts
+#EXTINF:0 CUID="31200" tvg-name="NICK JR ᴿᴬᵂ" tvg-id="nickjr.es" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NICK JR ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683650.ts
+#EXTINF:0 CUID="31201" tvg-name="NICKELODEON ᴿᴬᵂ" tvg-id="nickelodeon.es" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NICKELODEON ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683651.ts
+#EXTINF:0 CUID="31202" tvg-name="NOVA ᴿᴬᵂ" tvg-id="nova.es" tvg-logo="https://logo.m3uassets.com/nova.png" group-title="ES| MOVISTAR ᴿᴬᵂ",NOVA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683701.ts
+#EXTINF:0 CUID="31203" tvg-name="ODISEA ᴿᴬᵂ" tvg-id="odisea.es" tvg-logo="https://logo.m3uassets.com/odisea.png" group-title="ES| MOVISTAR ᴿᴬᵂ",ODISEA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683624.ts
+#EXTINF:0 CUID="31205" tvg-name="PARLAMENTO ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/parlamento.png" group-title="ES| MOVISTAR ᴿᴬᵂ",PARLAMENTO ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683713.ts
+#EXTINF:0 CUID="31207" tvg-name="SELEKT ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/selekt.png" group-title="ES| MOVISTAR ᴿᴬᵂ",SELEKT ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683711.ts
+#EXTINF:0 CUID="31208" tvg-name="SOL MUSICA ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/solmusica.png" group-title="ES| MOVISTAR ᴿᴬᵂ",SOL MUSICA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683657.ts
+#EXTINF:0 CUID="31209" tvg-name="STAR CHANNEL ᴿᴬᵂ" tvg-id="starchannel.es" tvg-logo="https://logo.m3uassets.com/starchannel.png" group-title="ES| MOVISTAR ᴿᴬᵂ",STAR CHANNEL ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683661.ts
+#EXTINF:0 CUID="31210" tvg-name="SUNDANCE ᴿᴬᵂ" tvg-id="sundance.es" tvg-logo="https://logo.m3uassets.com/sundance.png" group-title="ES| MOVISTAR ᴿᴬᵂ",SUNDANCE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683663.ts
+#EXTINF:0 CUID="31211" tvg-name="SYFY ᴿᴬᵂ" tvg-id="syfy.es" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="ES| MOVISTAR ᴿᴬᵂ",SYFY ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683652.ts
+#EXTINF:0 CUID="31212" tvg-name="TCM ᴿᴬᵂ" tvg-id="tcm.es" tvg-logo="https://logo.m3uassets.com/cmt.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TCM ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683666.ts
+#EXTINF:0 CUID="31213" tvg-name="TELECINCO ᴿᴬᵂ" tvg-id="telecinco.es" tvg-logo="https://logo.m3uassets.com/telecinco.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TELECINCO ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683708.ts
+#EXTINF:0 CUID="31214" tvg-name="TELEDEPORTE ᴿᴬᵂ" tvg-id="teledeporte.es" tvg-logo="https://logo.m3uassets.com/teledeporte.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TELEDEPORTE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683678.ts
+#EXTINF:0 CUID="31215" tvg-name="TELEMADRID ᴿᴬᵂ" tvg-id="telemadrid.es" tvg-logo="https://logo.m3uassets.com/telemadrid.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TELEMADRID ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683691.ts
+#EXTINF:0 CUID="31216" tvg-name="TEN ᴿᴬᵂ" tvg-id="ten.es" tvg-logo="https://logo.m3uassets.com/ten.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TEN ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683693.ts
+#EXTINF:0 CUID="31217" tvg-name="TPA 7 ᴿᴬᵂ" tvg-id="tpa7.es" tvg-logo="https://logo.m3uassets.com/tpa7.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TPA 7 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683645.ts
+#EXTINF:0 CUID="31218" tvg-name="TPA 8 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/tpa8.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TPA 8 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683648.ts
+#EXTINF:0 CUID="31219" tvg-name="TRACE LATINA ᴿᴬᵂ" tvg-id="tracelatina.es" tvg-logo="https://logo.m3uassets.com/tracelatina.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TRACE LATINA ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683664.ts
+#EXTINF:0 CUID="31220" tvg-name="TRECE ᴿᴬᵂ" tvg-id="trece.es" tvg-logo="https://logo.m3uassets.com/trece.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TRECE ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683694.ts
+#EXTINF:0 CUID="31221" tvg-name="TV GALICIA 2 ᴿᴬᵂ" tvg-id="tvgaliciaes.es" tvg-logo="https://logo.m3uassets.com/tvgalicia.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TV GALICIA 2 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683684.ts
+#EXTINF:0 CUID="31222" tvg-name="TV3 ᴿᴬᵂ" tvg-logo="https://logo.m3uassets.com/mtv3.png" group-title="ES| MOVISTAR ᴿᴬᵂ",TV3 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683692.ts
+#EXTINF:0 CUID="31223" tvg-name="WARNER TV ᴿᴬᵂ" tvg-id="warnertv.es" tvg-logo="https://logo.m3uassets.com/warnertv.png" group-title="ES| MOVISTAR ᴿᴬᵂ",WARNER TV ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1683679.ts
+#EXTINF:0 CUID="96" tvg-name="### MOVISTAR+ ESTRENOS ᴿᴬᵂ ###" tvg-id="movistarestrenos.es" tvg-logo="https://logo.m3uassets.com/movistarestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",### MOVISTAR+ ESTRENOS ᴿᴬᵂ ###
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556189.ts
+#EXTINF:0 CUID="21015" tvg-name="ESTRENOS M+ 1 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 1 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556187.ts
+#EXTINF:0 CUID="21016" tvg-name="ESTRENOS M+ 10 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 10 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556178.ts
+#EXTINF:0 CUID="21017" tvg-name="ESTRENOS M+ 11 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 11 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556177.ts
+#EXTINF:0 CUID="21018" tvg-name="ESTRENOS M+ 12 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 12 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556176.ts
+#EXTINF:0 CUID="21019" tvg-name="ESTRENOS M+ 13 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 13 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556175.ts
+#EXTINF:0 CUID="21020" tvg-name="ESTRENOS M+ 14 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 14 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556174.ts
+#EXTINF:0 CUID="21021" tvg-name="ESTRENOS M+ 15 ᴿᴬᵂ" tvg-id="mplusestrenos.es" tvg-logo="https://logo.m3uassets.com/mestrenos.png" group-title="ES| MOVISTAR+ ESTRENOS ᴿᴬᵂ",ESTRENOS M+ 15 ᴿᴬᵂ
+https://operator2.barfik.org/live/1kjkt63535/h95736w8fc/1556173.ts
